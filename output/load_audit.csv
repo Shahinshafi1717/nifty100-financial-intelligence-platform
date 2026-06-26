@@ -1,0 +1,8 @@
+table,source_file,rows_in,rows_out,rows_rejected,status,timestamp,runtime_s
+companies,companies.xlsx,92,92,0,OK,2026-06-23T00:37:54.931893,0.53
+profitandloss,profitandloss.xlsx,1276,1073,191,OK,2026-06-23T00:37:55.162615,0.23
+balancesheet,balancesheet.xlsx,1312,1140,85,OK,2026-06-23T00:37:55.343786,0.18
+cashflow,cashflow.xlsx,1187,1056,96,OK,2026-06-23T00:37:55.476782,0.13
+analysis,analysis.xlsx,20,16,4,OK,2026-06-23T00:37:55.512774,0.04
+documents,documents.xlsx,1585,1457,128,OK,2026-06-23T00:37:55.628849,0.12
+prosandcons,prosandcons.xlsx,16,14,2,OK,2026-06-23T00:37:55.663442,0.03

@@ -1,0 +1,371 @@
+rule_id,company_id,year,field,issue,severity
+DQ-05,ADANIENSOL,2024-03,opm_percentage,"OPM mismatch: source=30.0%, computed=34.39%",WARNING
+DQ-05,AXISBANK,2013-03,opm_percentage,"OPM mismatch: source=1353.0%, computed=30.58%",WARNING
+DQ-05,AXISBANK,2014-03,opm_percentage,"OPM mismatch: source=2307.0%, computed=31.47%",WARNING
+DQ-05,AXISBANK,2015-03,opm_percentage,"OPM mismatch: source=3097.0%, computed=31.36%",WARNING
+DQ-05,AXISBANK,2016-03,opm_percentage,"OPM mismatch: source=3466.0%, computed=32.61%",WARNING
+DQ-05,AXISBANK,2017-03,opm_percentage,"OPM mismatch: source=-5715.0%, computed=53.45%",WARNING
+DQ-05,AXISBANK,2018-03,opm_percentage,"OPM mismatch: source=-10277.0%, computed=63.12%",WARNING
+DQ-05,AXISBANK,2019-03,opm_percentage,"OPM mismatch: source=-5447.0%, computed=49.39%",WARNING
+DQ-05,AXISBANK,2020-03,opm_percentage,"OPM mismatch: source=-9859.0%, computed=55.98%",WARNING
+DQ-05,AXISBANK,2021-03,opm_percentage,"OPM mismatch: source=-2510.0%, computed=50.12%",WARNING
+DQ-05,AXISBANK,2022-03,opm_percentage,"OPM mismatch: source=3170.0%, computed=44.47%",WARNING
+DQ-05,AXISBANK,2023-03,opm_percentage,"OPM mismatch: source=13857.0%, computed=34.16%",WARNING
+DQ-05,AXISBANK,2024-03,opm_percentage,"OPM mismatch: source=11952.0%, computed=34.69%",WARNING
+DQ-05,BAJFINANCE,2015-03,opm_percentage,"OPM mismatch: source=1367.0%, computed=32.49%",WARNING
+DQ-05,BAJFINANCE,2016-03,opm_percentage,"OPM mismatch: source=1986.0%, computed=32.25%",WARNING
+DQ-05,BAJFINANCE,2017-03,opm_percentage,"OPM mismatch: source=2867.0%, computed=32.6%",WARNING
+DQ-05,BAJFINANCE,2018-03,opm_percentage,"OPM mismatch: source=3935.0%, computed=32.28%",WARNING
+DQ-05,BAJFINANCE,2019-03,opm_percentage,"OPM mismatch: source=6310.0%, computed=29.5%",WARNING
+DQ-05,BAJFINANCE,2020-03,opm_percentage,"OPM mismatch: source=7608.0%, computed=34.73%",WARNING
+DQ-05,BAJFINANCE,2021-03,opm_percentage,"OPM mismatch: source=6314.0%, computed=40.64%",WARNING
+DQ-05,BAJFINANCE,2022-03,opm_percentage,"OPM mismatch: source=9906.0%, computed=37.55%",WARNING
+DQ-05,BAJFINANCE,2023-03,opm_percentage,"OPM mismatch: source=16018.0%, computed=30.65%",WARNING
+DQ-05,BAJFINANCE,2024-03,opm_percentage,"OPM mismatch: source=19987.0%, computed=29.29%",WARNING
+DQ-05,BANKBARODA,2013-03,opm_percentage,"OPM mismatch: source=1006.0%, computed=30.05%",WARNING
+DQ-05,BANKBARODA,2014-03,opm_percentage,"OPM mismatch: source=809.0%, computed=29.78%",WARNING
+DQ-05,BANKBARODA,2015-03,opm_percentage,"OPM mismatch: source=902.0%, computed=29.98%",WARNING
+DQ-05,BANKBARODA,2016-03,opm_percentage,"OPM mismatch: source=-11700.0%, computed=55.44%",WARNING
+DQ-05,BANKBARODA,2017-03,opm_percentage,"OPM mismatch: source=-4372.0%, computed=43.28%",WARNING
+DQ-05,BANKBARODA,2018-03,opm_percentage,"OPM mismatch: source=-9197.0%, computed=56.65%",WARNING
+DQ-05,BANKBARODA,2019-03,opm_percentage,"OPM mismatch: source=-5414.0%, computed=48.79%",WARNING
+DQ-05,BANKBARODA,2020-03,opm_percentage,"OPM mismatch: source=-11728.0%, computed=51.44%",WARNING
+DQ-05,BANKBARODA,2021-03,opm_percentage,"OPM mismatch: source=-6957.0%, computed=51.23%",WARNING
+DQ-05,BANKBARODA,2022-03,opm_percentage,"OPM mismatch: source=-2948.0%, computed=51.12%",WARNING
+DQ-05,BANKBARODA,2023-03,opm_percentage,"OPM mismatch: source=6329.0%, computed=40.45%",WARNING
+DQ-05,BANKBARODA,2024-03,opm_percentage,"OPM mismatch: source=4102.0%, computed=37.49%",WARNING
+DQ-05,CANBK,2013-03,opm_percentage,"OPM mismatch: source=655.0%, computed=21.18%",WARNING
+DQ-05,CANBK,2014-03,opm_percentage,"OPM mismatch: source=-672.0%, computed=24.35%",WARNING
+DQ-05,CANBK,2015-03,opm_percentage,"OPM mismatch: source=-621.0%, computed=23.51%",WARNING
+DQ-05,CANBK,2016-03,opm_percentage,"OPM mismatch: source=-8008.0%, computed=40.38%",WARNING
+DQ-05,CANBK,2017-03,opm_percentage,"OPM mismatch: source=-5775.0%, computed=37.85%",WARNING
+DQ-05,CANBK,2018-03,opm_percentage,"OPM mismatch: source=-13350.0%, computed=61.87%",WARNING
+DQ-05,CANBK,2019-03,opm_percentage,"OPM mismatch: source=-11590.0%, computed=56.73%",WARNING
+DQ-05,CANBK,2020-03,opm_percentage,"OPM mismatch: source=-12867.0%, computed=53.88%",WARNING
+DQ-05,CANBK,2021-03,opm_percentage,"OPM mismatch: source=-18367.0%, computed=61.83%",WARNING
+DQ-05,CANBK,2022-03,opm_percentage,"OPM mismatch: source=-13657.0%, computed=58.39%",WARNING
+DQ-05,CANBK,2023-03,opm_percentage,"OPM mismatch: source=-9877.0%, computed=49.8%",WARNING
+DQ-05,CANBK,2024-03,opm_percentage,"OPM mismatch: source=-7745.0%, computed=41.75%",WARNING
+DQ-05,CHOLAFIN,2013-03,opm_percentage,"OPM mismatch: source=472.0%, computed=26.77%",WARNING
+DQ-05,CHOLAFIN,2014-03,opm_percentage,"OPM mismatch: source=578.0%, computed=28.42%",WARNING
+DQ-05,CHOLAFIN,2015-03,opm_percentage,"OPM mismatch: source=696.0%, computed=28.56%",WARNING
+DQ-05,CHOLAFIN,2016-03,opm_percentage,"OPM mismatch: source=899.0%, computed=30.04%",WARNING
+DQ-05,CHOLAFIN,2017-03,opm_percentage,"OPM mismatch: source=1143.0%, computed=28.16%",WARNING
+DQ-05,CHOLAFIN,2018-03,opm_percentage,"OPM mismatch: source=1451.0%, computed=26.1%",WARNING
+DQ-05,CHOLAFIN,2019-03,opm_percentage,"OPM mismatch: source=1888.0%, computed=22.96%",WARNING
+DQ-05,CHOLAFIN,2020-03,opm_percentage,"OPM mismatch: source=1699.0%, computed=27.79%",WARNING
+DQ-05,CHOLAFIN,2021-03,opm_percentage,"OPM mismatch: source=2094.0%, computed=30.4%",WARNING
+DQ-05,CHOLAFIN,2022-03,opm_percentage,"OPM mismatch: source=2924.0%, computed=28.83%",WARNING
+DQ-05,CHOLAFIN,2023-03,opm_percentage,"OPM mismatch: source=3515.0%, computed=28.1%",WARNING
+DQ-05,CHOLAFIN,2024-03,opm_percentage,"OPM mismatch: source=4548.0%, computed=28.1%",WARNING
+DQ-05,CIPLA,2013-03,opm_percentage,"OPM mismatch: source=2214.0%, computed=73.26%",WARNING
+DQ-05,CIPLA,2014-03,opm_percentage,"OPM mismatch: source=2147.0%, computed=78.9%",WARNING
+DQ-05,CIPLA,2015-03,opm_percentage,"OPM mismatch: source=2163.0%, computed=80.94%",WARNING
+DQ-05,CIPLA,2016-03,opm_percentage,"OPM mismatch: source=2480.0%, computed=82.02%",WARNING
+DQ-05,CIPLA,2017-03,opm_percentage,"OPM mismatch: source=2496.0%, computed=82.66%",WARNING
+DQ-05,CIPLA,2018-03,opm_percentage,"OPM mismatch: source=2826.0%, computed=81.35%",WARNING
+DQ-05,CIPLA,2019-03,opm_percentage,"OPM mismatch: source=3097.0%, computed=81.07%",WARNING
+DQ-05,CIPLA,2020-03,opm_percentage,"OPM mismatch: source=3206.0%, computed=81.29%",WARNING
+DQ-05,CIPLA,2021-03,opm_percentage,"OPM mismatch: source=4252.0%, computed=77.8%",WARNING
+DQ-05,CIPLA,2022-03,opm_percentage,"OPM mismatch: source=4553.0%, computed=79.08%",WARNING
+DQ-05,CIPLA,2023-03,opm_percentage,"OPM mismatch: source=5027.0%, computed=77.91%",WARNING
+DQ-05,CIPLA,2024-03,opm_percentage,"OPM mismatch: source=6291.0%, computed=75.59%",WARNING
+DQ-05,COALINDIA,2013-03,opm_percentage,"OPM mismatch: source=18087.0%, computed=73.52%",WARNING
+DQ-05,COALINDIA,2014-03,opm_percentage,"OPM mismatch: source=17766.0%, computed=74.84%",WARNING
+DQ-05,COALINDIA,2015-03,opm_percentage,"OPM mismatch: source=17343.0%, computed=76.6%",WARNING
+DQ-05,COALINDIA,2016-03,opm_percentage,"OPM mismatch: source=18714.0%, computed=75.96%",WARNING
+DQ-05,COALINDIA,2017-03,opm_percentage,"OPM mismatch: source=12448.0%, computed=84.07%",WARNING
+DQ-05,COALINDIA,2018-03,opm_percentage,"OPM mismatch: source=9288.0%, computed=89.1%",WARNING
+DQ-05,COALINDIA,2019-03,opm_percentage,"OPM mismatch: source=25007.0%, computed=74.89%",WARNING
+DQ-05,COALINDIA,2020-03,opm_percentage,"OPM mismatch: source=21581.0%, computed=77.54%",WARNING
+DQ-05,COALINDIA,2021-03,opm_percentage,"OPM mismatch: source=18628.0%, computed=79.31%",WARNING
+DQ-05,COALINDIA,2022-03,opm_percentage,"OPM mismatch: source=24721.0%, computed=77.47%",WARNING
+DQ-05,COALINDIA,2023-03,opm_percentage,"OPM mismatch: source=44232.0%, computed=68.01%",WARNING
+DQ-05,COALINDIA,2024-03,opm_percentage,"OPM mismatch: source=47971.0%, computed=66.29%",WARNING
+DQ-05,HDFCBANK,2013-03,opm_percentage,"OPM mismatch: source=3534.0%, computed=35.22%",WARNING
+DQ-05,HDFCBANK,2014-03,opm_percentage,"OPM mismatch: source=5602.0%, computed=31.74%",WARNING
+DQ-05,HDFCBANK,2015-03,opm_percentage,"OPM mismatch: source=7214.0%, computed=31.9%",WARNING
+DQ-05,HDFCBANK,2016-03,opm_percentage,"OPM mismatch: source=9037.0%, computed=31.75%",WARNING
+DQ-05,HDFCBANK,2017-03,opm_percentage,"OPM mismatch: source=11374.0%, computed=32.56%",WARNING
+DQ-05,HDFCBANK,2018-03,opm_percentage,"OPM mismatch: source=13374.0%, computed=34.63%",WARNING
+DQ-05,HDFCBANK,2019-03,opm_percentage,"OPM mismatch: source=16592.0%, computed=33.15%",WARNING
+DQ-05,HDFCBANK,2020-03,opm_percentage,"OPM mismatch: source=14593.0%, computed=37.2%",WARNING
+DQ-05,HDFCBANK,2021-03,opm_percentage,"OPM mismatch: source=16848.0%, computed=40.81%",WARNING
+DQ-05,HDFCBANK,2022-03,opm_percentage,"OPM mismatch: source=20795.0%, computed=41.61%",WARNING
+DQ-05,HDFCBANK,2023-03,opm_percentage,"OPM mismatch: source=29932.0%, computed=36.92%",WARNING
+DQ-05,HDFCBANK,2024-03,opm_percentage,"OPM mismatch: source=-44685.0%, computed=61.41%",WARNING
+DQ-05,HDFCLIFE,2013-03,opm_percentage,"OPM mismatch: source=525.0%, computed=96.27%",WARNING
+DQ-05,HDFCLIFE,2014-03,opm_percentage,"OPM mismatch: source=605.0%, computed=96.48%",WARNING
+DQ-05,HDFCLIFE,2015-03,opm_percentage,"OPM mismatch: source=874.0%, computed=96.79%",WARNING
+DQ-05,HDFCLIFE,2016-03,opm_percentage,"OPM mismatch: source=953.0%, computed=94.74%",WARNING
+DQ-05,HDFCLIFE,2017-03,opm_percentage,"OPM mismatch: source=972.0%, computed=96.83%",WARNING
+DQ-05,HDFCLIFE,2018-03,opm_percentage,"OPM mismatch: source=1074.0%, computed=96.67%",WARNING
+DQ-05,HDFCLIFE,2019-03,opm_percentage,"OPM mismatch: source=1215.0%, computed=96.87%",WARNING
+DQ-05,HDFCLIFE,2020-03,opm_percentage,"OPM mismatch: source=1141.0%, computed=96.12%",WARNING
+DQ-05,HDFCLIFE,2021-03,opm_percentage,"OPM mismatch: source=1235.0%, computed=98.27%",WARNING
+DQ-05,HDFCLIFE,2022-03,opm_percentage,"OPM mismatch: source=778.0%, computed=98.84%",WARNING
+DQ-05,HDFCLIFE,2023-03,opm_percentage,"OPM mismatch: source=80.0%, computed=99.89%",WARNING
+DQ-05,HDFCLIFE,2024-03,opm_percentage,"OPM mismatch: source=531.0%, computed=99.48%",WARNING
+DQ-05,HEROMOTOCO,2014-03,opm_percentage,"OPM mismatch: source=3553.0%, computed=85.94%",WARNING
+DQ-05,HEROMOTOCO,2015-03,opm_percentage,"OPM mismatch: source=3520.0%, computed=87.22%",WARNING
+DQ-05,HEROMOTOCO,2016-03,opm_percentage,"OPM mismatch: source=4424.0%, computed=84.45%",WARNING
+DQ-05,HEROMOTOCO,2017-03,opm_percentage,"OPM mismatch: source=4585.0%, computed=83.97%",WARNING
+DQ-05,HEROMOTOCO,2018-03,opm_percentage,"OPM mismatch: source=5334.0%, computed=83.57%",WARNING
+DQ-05,HEROMOTOCO,2019-03,opm_percentage,"OPM mismatch: source=5025.0%, computed=85.21%",WARNING
+DQ-05,HEROMOTOCO,2020-03,opm_percentage,"OPM mismatch: source=4070.0%, computed=86.09%",WARNING
+DQ-05,HEROMOTOCO,2021-03,opm_percentage,"OPM mismatch: source=4058.0%, computed=86.9%",WARNING
+DQ-05,HEROMOTOCO,2022-03,opm_percentage,"OPM mismatch: source=3256.0%, computed=88.98%",WARNING
+DQ-05,HEROMOTOCO,2023-03,opm_percentage,"OPM mismatch: source=4099.0%, computed=88.0%",WARNING
+DQ-05,HEROMOTOCO,2024-03,opm_percentage,"OPM mismatch: source=5235.0%, computed=86.15%",WARNING
+DQ-05,HINDALCO,2013-03,opm_percentage,"OPM mismatch: source=7699.0%, computed=90.4%",WARNING
+DQ-05,HINDALCO,2014-03,opm_percentage,"OPM mismatch: source=8024.0%, computed=90.85%",WARNING
+DQ-05,HINDALCO,2015-03,opm_percentage,"OPM mismatch: source=8844.0%, computed=91.52%",WARNING
+DQ-05,HINDALCO,2016-03,opm_percentage,"OPM mismatch: source=7778.0%, computed=92.12%",WARNING
+DQ-05,HINDALCO,2017-03,opm_percentage,"OPM mismatch: source=12317.0%, computed=87.71%",WARNING
+DQ-05,HINDALCO,2018-03,opm_percentage,"OPM mismatch: source=13695.0%, computed=88.11%",WARNING
+DQ-05,HINDALCO,2019-03,opm_percentage,"OPM mismatch: source=15511.0%, computed=88.12%",WARNING
+DQ-05,HINDALCO,2020-03,opm_percentage,"OPM mismatch: source=14306.0%, computed=87.89%",WARNING
+DQ-05,HINDALCO,2021-03,opm_percentage,"OPM mismatch: source=17559.0%, computed=86.7%",WARNING
+DQ-05,HINDALCO,2022-03,opm_percentage,"OPM mismatch: source=28347.0%, computed=85.47%",WARNING
+DQ-05,HINDALCO,2023-03,opm_percentage,"OPM mismatch: source=22666.0%, computed=89.85%",WARNING
+DQ-05,HINDALCO,2024-03,opm_percentage,"OPM mismatch: source=23872.0%, computed=88.95%",WARNING
+DQ-05,HINDUNILVR,2013-03,opm_percentage,"OPM mismatch: source=4220.0%, computed=84.37%",WARNING
+DQ-05,HINDUNILVR,2014-03,opm_percentage,"OPM mismatch: source=4759.0%, computed=83.72%",WARNING
+DQ-05,HINDUNILVR,2015-03,opm_percentage,"OPM mismatch: source=5412.0%, computed=83.07%",WARNING
+DQ-05,HINDUNILVR,2016-03,opm_percentage,"OPM mismatch: source=5910.0%, computed=81.64%",WARNING
+DQ-05,HINDUNILVR,2017-03,opm_percentage,"OPM mismatch: source=6328.0%, computed=80.92%",WARNING
+DQ-05,HINDUNILVR,2018-03,opm_percentage,"OPM mismatch: source=7499.0%, computed=78.9%",WARNING
+DQ-05,HINDUNILVR,2019-03,opm_percentage,"OPM mismatch: source=8880.0%, computed=77.41%",WARNING
+DQ-05,HINDUNILVR,2020-03,opm_percentage,"OPM mismatch: source=9861.0%, computed=75.21%",WARNING
+DQ-05,HINDUNILVR,2021-03,opm_percentage,"OPM mismatch: source=11626.0%, computed=75.28%",WARNING
+DQ-05,HINDUNILVR,2022-03,opm_percentage,"OPM mismatch: source=12857.0%, computed=75.49%",WARNING
+DQ-05,HINDUNILVR,2023-03,opm_percentage,"OPM mismatch: source=14147.0%, computed=76.65%",WARNING
+DQ-05,HINDUNILVR,2024-03,opm_percentage,"OPM mismatch: source=14659.0%, computed=76.32%",WARNING
+DQ-05,ICICIBANK,2013-03,opm_percentage,"OPM mismatch: source=-15085.0%, computed=70.59%",WARNING
+DQ-05,ICICIBANK,2014-03,opm_percentage,"OPM mismatch: source=-13084.0%, computed=66.4%",WARNING
+DQ-05,ICICIBANK,2015-03,opm_percentage,"OPM mismatch: source=-16120.0%, computed=70.53%",WARNING
+DQ-05,ICICIBANK,2016-03,opm_percentage,"OPM mismatch: source=-26955.0%, computed=88.12%",WARNING
+DQ-05,ICICIBANK,2017-03,opm_percentage,"OPM mismatch: source=-37737.0%, computed=104.76%",WARNING
+DQ-05,ICICIBANK,2018-03,opm_percentage,"OPM mismatch: source=-44906.0%, computed=117.12%",WARNING
+DQ-05,ICICIBANK,2019-03,opm_percentage,"OPM mismatch: source=-50971.0%, computed=116.38%",WARNING
+DQ-05,ICICIBANK,2020-03,opm_percentage,"OPM mismatch: source=-45190.0%, computed=100.62%",WARNING
+DQ-05,ICICIBANK,2021-03,opm_percentage,"OPM mismatch: source=-44805.0%, computed=102.41%",WARNING
+DQ-05,ICICIBANK,2022-03,opm_percentage,"OPM mismatch: source=-26558.0%, computed=84.69%",WARNING
+DQ-05,ICICIBANK,2023-03,opm_percentage,"OPM mismatch: source=-17341.0%, computed=72.57%",WARNING
+DQ-05,ICICIBANK,2024-03,opm_percentage,"OPM mismatch: source=-14152.0%, computed=62.41%",WARNING
+DQ-05,ICICIGI,2013-03,opm_percentage,"OPM mismatch: source=-178.0%, computed=104.46%",WARNING
+DQ-05,ICICIGI,2014-03,opm_percentage,"OPM mismatch: source=-225.0%, computed=105.19%",WARNING
+DQ-05,ICICIGI,2015-03,opm_percentage,"OPM mismatch: source=-221.0%, computed=105.24%",WARNING
+DQ-05,ICICIGI,2016-03,opm_percentage,"OPM mismatch: source=764.0%, computed=87.34%",WARNING
+DQ-05,ICICIGI,2017-03,opm_percentage,"OPM mismatch: source=919.0%, computed=87.78%",WARNING
+DQ-05,ICICIGI,2018-03,opm_percentage,"OPM mismatch: source=-262.0%, computed=103.79%",WARNING
+DQ-05,ICICIGI,2019-03,opm_percentage,"OPM mismatch: source=1669.0%, computed=85.05%",WARNING
+DQ-05,ICICIGI,2020-03,opm_percentage,"OPM mismatch: source=1772.0%, computed=84.61%",WARNING
+DQ-05,ICICIGI,2021-03,opm_percentage,"OPM mismatch: source=2072.0%, computed=82.97%",WARNING
+DQ-05,ICICIGI,2022-03,opm_percentage,"OPM mismatch: source=1016.0%, computed=93.66%",WARNING
+DQ-05,ICICIGI,2023-03,opm_percentage,"OPM mismatch: source=1264.0%, computed=92.93%",WARNING
+DQ-05,ICICIGI,2024-03,opm_percentage,"OPM mismatch: source=2577.0%, computed=87.42%",WARNING
+DQ-05,ICICIPRULI,2013-03,opm_percentage,"OPM mismatch: source=745.0%, computed=96.28%",WARNING
+DQ-05,ICICIPRULI,2014-03,opm_percentage,"OPM mismatch: source=1504.0%, computed=93.13%",WARNING
+DQ-05,ICICIPRULI,2015-03,opm_percentage,"OPM mismatch: source=1655.0%, computed=95.2%",WARNING
+DQ-05,ICICIPRULI,2016-03,opm_percentage,"OPM mismatch: source=1842.0%, computed=91.17%",WARNING
+DQ-05,ICICIPRULI,2017-03,opm_percentage,"OPM mismatch: source=1806.0%, computed=95.22%",WARNING
+DQ-05,ICICIPRULI,2018-03,opm_percentage,"OPM mismatch: source=1771.0%, computed=95.44%",WARNING
+DQ-05,ICICIPRULI,2019-03,opm_percentage,"OPM mismatch: source=541.0%, computed=98.7%",WARNING
+DQ-05,ICICIPRULI,2020-03,opm_percentage,"OPM mismatch: source=-319.0%, computed=101.52%",WARNING
+DQ-05,ICICIPRULI,2021-03,opm_percentage,"OPM mismatch: source=-390.0%, computed=100.47%",WARNING
+DQ-05,ICICIPRULI,2022-03,opm_percentage,"OPM mismatch: source=-2163.0%, computed=103.4%",WARNING
+DQ-05,ICICIPRULI,2023-03,opm_percentage,"OPM mismatch: source=-1757.0%, computed=103.48%",WARNING
+DQ-05,ICICIPRULI,2024-03,opm_percentage,"OPM mismatch: source=-1829.0%, computed=102.03%",WARNING
+DQ-05,INDUSINDBK,2013-03,opm_percentage,"OPM mismatch: source=286.0%, computed=27.88%",WARNING
+DQ-05,INDUSINDBK,2014-03,opm_percentage,"OPM mismatch: source=335.0%, computed=30.95%",WARNING
+DQ-05,INDUSINDBK,2015-03,opm_percentage,"OPM mismatch: source=288.0%, computed=32.33%",WARNING
+DQ-05,INDUSINDBK,2016-03,opm_percentage,"OPM mismatch: source=329.0%, computed=35.28%",WARNING
+DQ-05,INDUSINDBK,2017-03,opm_percentage,"OPM mismatch: source=379.0%, computed=39.46%",WARNING
+DQ-05,INDUSINDBK,2018-03,opm_percentage,"OPM mismatch: source=942.0%, computed=37.93%",WARNING
+DQ-05,INDUSINDBK,2019-03,opm_percentage,"OPM mismatch: source=-437.0%, computed=41.7%",WARNING
+DQ-05,INDUSINDBK,2020-03,opm_percentage,"OPM mismatch: source=-553.0%, computed=43.81%",WARNING
+DQ-05,INDUSINDBK,2021-03,opm_percentage,"OPM mismatch: source=-2469.0%, computed=55.16%",WARNING
+DQ-05,INDUSINDBK,2022-03,opm_percentage,"OPM mismatch: source=-839.0%, computed=51.39%",WARNING
+DQ-05,INDUSINDBK,2023-03,opm_percentage,"OPM mismatch: source=2067.0%, computed=42.69%",WARNING
+DQ-05,INDUSINDBK,2024-03,opm_percentage,"OPM mismatch: source=2978.0%, computed=38.55%",WARNING
+DQ-05,JIOFIN,2023-03,opm_percentage,"OPM mismatch: source=88.0%, computed=86.67%",WARNING
+DQ-05,KOTAKBANK,2013-03,opm_percentage,"OPM mismatch: source=-1789.0%, computed=60.92%",WARNING
+DQ-05,KOTAKBANK,2014-03,opm_percentage,"OPM mismatch: source=-1379.0%, computed=58.84%",WARNING
+DQ-05,KOTAKBANK,2015-03,opm_percentage,"OPM mismatch: source=-3366.0%, computed=72.96%",WARNING
+DQ-05,KOTAKBANK,2016-03,opm_percentage,"OPM mismatch: source=-2263.0%, computed=56.57%",WARNING
+DQ-05,KOTAKBANK,2017-03,opm_percentage,"OPM mismatch: source=-3965.0%, computed=66.44%",WARNING
+DQ-05,KOTAKBANK,2018-03,opm_percentage,"OPM mismatch: source=-4141.0%, computed=66.87%",WARNING
+DQ-05,KOTAKBANK,2019-03,opm_percentage,"OPM mismatch: source=-5114.0%, computed=66.23%",WARNING
+DQ-05,KOTAKBANK,2020-03,opm_percentage,"OPM mismatch: source=-5005.0%, computed=67.45%",WARNING
+DQ-05,KOTAKBANK,2021-03,opm_percentage,"OPM mismatch: source=-9958.0%, computed=90.83%",WARNING
+DQ-05,KOTAKBANK,2022-03,opm_percentage,"OPM mismatch: source=-8512.0%, computed=90.98%",WARNING
+DQ-05,KOTAKBANK,2023-03,opm_percentage,"OPM mismatch: source=-5746.0%, computed=79.44%",WARNING
+DQ-05,KOTAKBANK,2024-03,opm_percentage,"OPM mismatch: source=-13382.0%, computed=83.67%",WARNING
+DQ-05,SUNPHARMA,2024-03,opm_percentage,"OPM mismatch: source=28.0%, computed=26.84%",WARNING
+DQ-05,INDIGO,2013-03,opm_percentage,"OPM mismatch: source=855.0%, computed=90.71%",WARNING
+DQ-05,INDIGO,2014-03,opm_percentage,"OPM mismatch: source=433.0%, computed=96.11%",WARNING
+DQ-05,INDIGO,2015-03,opm_percentage,"OPM mismatch: source=1904.0%, computed=86.33%",WARNING
+DQ-05,INDIGO,2016-03,opm_percentage,"OPM mismatch: source=3164.0%, computed=80.4%",WARNING
+DQ-05,INDIGO,2017-03,opm_percentage,"OPM mismatch: source=2219.0%, computed=88.06%",WARNING
+DQ-05,INDIGO,2018-03,opm_percentage,"OPM mismatch: source=3030.0%, computed=86.84%",WARNING
+DQ-05,INDIGO,2019-03,opm_percentage,"OPM mismatch: source=-151.0%, computed=100.53%",WARNING
+DQ-05,INDIGO,2020-03,opm_percentage,"OPM mismatch: source=4069.0%, computed=88.62%",WARNING
+DQ-05,INDIGO,2021-03,opm_percentage,"OPM mismatch: source=2.0%, computed=99.98%",WARNING
+DQ-05,INDIGO,2022-03,opm_percentage,"OPM mismatch: source=558.0%, computed=97.85%",WARNING
+DQ-05,INDIGO,2023-03,opm_percentage,"OPM mismatch: source=6521.0%, computed=88.02%",WARNING
+DQ-05,INDIGO,2024-03,opm_percentage,"OPM mismatch: source=16331.0%, computed=76.3%",WARNING
+DQ-06,ADANIENSOL,2014-03,sales,sales <= 0: 0,WARNING
+DQ-11,ADANIENT,2014-03,tax_percentage,Tax rate out of range: -64.0%,WARNING
+DQ-11,ADANIGREEN,2017-03,tax_percentage,Tax rate out of range: -75.0%,WARNING
+DQ-11,ADANIGREEN,2018-03,tax_percentage,Tax rate out of range: -35.0%,WARNING
+DQ-11,ADANIGREEN,2019-03,tax_percentage,Tax rate out of range: -19.0%,WARNING
+DQ-11,ADANIPOWER,2014-03,tax_percentage,Tax rate out of range: -79.0%,WARNING
+DQ-11,ADANIPOWER,2016-03,tax_percentage,Tax rate out of range: -47.0%,WARNING
+DQ-11,ADANIPOWER,2017-03,tax_percentage,Tax rate out of range: -1.0%,WARNING
+DQ-11,ADANIPOWER,2023-03,tax_percentage,Tax rate out of range: -40.0%,WARNING
+DQ-11,AMBUJACEM,2018-12,tax_percentage,Tax rate out of range: -2.0%,WARNING
+DQ-11,APOLLOHOSP,2018-03,tax_percentage,Tax rate out of range: 65.0%,WARNING
+DQ-11,AXISBANK,2018-03,tax_percentage,Tax rate out of range: -99.0%,WARNING
+DQ-11,AXISBANK,2020-03,tax_percentage,Tax rate out of range: 67.0%,WARNING
+DQ-11,BANKBARODA,2016-03,tax_percentage,Tax rate out of range: -19.0%,WARNING
+DQ-11,BANKBARODA,2018-03,tax_percentage,Tax rate out of range: -9.0%,WARNING
+DQ-11,BANKBARODA,2020-03,tax_percentage,Tax rate out of range: -99.0%,WARNING
+DQ-11,BANKBARODA,2021-03,tax_percentage,Tax rate out of range: 77.0%,WARNING
+DQ-11,BHARTIARTL,2014-03,tax_percentage,Tax rate out of range: 62.0%,WARNING
+DQ-11,BHARTIARTL,2019-03,tax_percentage,Tax rate out of range: -99.0%,WARNING
+DQ-11,BHARTIARTL,2020-03,tax_percentage,Tax rate out of range: -28.0%,WARNING
+DQ-11,BHARTIARTL,2021-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,BHEL,2016-03,tax_percentage,Tax rate out of range: -39.0%,WARNING
+DQ-11,BHEL,2018-03,tax_percentage,Tax rate out of range: 64.0%,WARNING
+DQ-11,BHEL,2020-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,BHEL,2021-03,tax_percentage,Tax rate out of range: -25.0%,WARNING
+DQ-11,BHEL,2024-03,tax_percentage,Tax rate out of range: -16.0%,WARNING
+DQ-11,CANBK,2016-03,tax_percentage,Tax rate out of range: -13.0%,WARNING
+DQ-11,CANBK,2018-03,tax_percentage,Tax rate out of range: -36.0%,WARNING
+DQ-11,CANBK,2019-03,tax_percentage,Tax rate out of range: -99.0%,WARNING
+DQ-11,DLF,2014-03,tax_percentage,Tax rate out of range: -16.0%,WARNING
+DQ-11,DLF,2020-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,DRREDDY,2020-03,tax_percentage,Tax rate out of range: -7.0%,WARNING
+DQ-11,GODREJCP,2019-03,tax_percentage,Tax rate out of range: -12.0%,WARNING
+DQ-11,GODREJCP,2024-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,GRASIM,2020-03,tax_percentage,Tax rate out of range: -1.0%,WARNING
+DQ-11,HDFCLIFE,2024-03,tax_percentage,Tax rate out of range: -61.0%,WARNING
+DQ-11,HINDALCO,2015-03,tax_percentage,Tax rate out of range: 75.0%,WARNING
+DQ-11,HINDALCO,2016-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,IOC,2020-03,tax_percentage,Tax rate out of range: -74.0%,WARNING
+DQ-11,IRFC,2013-03,tax_percentage,Tax rate out of range: 64.0%,WARNING
+DQ-11,JINDALSTEL,2015-03,tax_percentage,Tax rate out of range: -6.0%,WARNING
+DQ-11,JINDALSTEL,2016-03,tax_percentage,Tax rate out of range: -22.0%,WARNING
+DQ-11,JINDALSTEL,2017-03,tax_percentage,Tax rate out of range: -17.0%,WARNING
+DQ-11,JINDALSTEL,2018-03,tax_percentage,Tax rate out of range: -13.0%,WARNING
+DQ-11,JINDALSTEL,2019-03,tax_percentage,Tax rate out of range: -14.0%,WARNING
+DQ-11,JSWENERGY,2018-03,tax_percentage,Tax rate out of range: 75.0%,WARNING
+DQ-11,JSWSTEEL,2014-03,tax_percentage,Tax rate out of range: 70.0%,WARNING
+DQ-11,JSWSTEEL,2016-03,tax_percentage,Tax rate out of range: -80.0%,WARNING
+DQ-11,JSWSTEEL,2020-03,tax_percentage,Tax rate out of range: -30.0%,WARNING
+DQ-11,LICI,2019-03,tax_percentage,Tax rate out of range: 68.0%,WARNING
+DQ-11,LICI,2020-03,tax_percentage,Tax rate out of range: 80.0%,WARNING
+DQ-11,LICI,2021-03,tax_percentage,Tax rate out of range: 76.0%,WARNING
+DQ-11,LICI,2022-03,tax_percentage,Tax rate out of range: 66.0%,WARNING
+DQ-11,LODHA,2021-03,tax_percentage,Tax rate out of range: -44.0%,WARNING
+DQ-11,LODHA,2023-03,tax_percentage,Tax rate out of range: -8.0%,WARNING
+DQ-11,M&M,2020-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,MOTHERSON,2020-03,tax_percentage,Tax rate out of range: -5.0%,WARNING
+DQ-11,NAUKRI,2015-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,NAUKRI,2017-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,NAUKRI,2020-03,tax_percentage,Tax rate out of range: 95.0%,WARNING
+DQ-11,NAUKRI,2023-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,NHPC,2020-03,tax_percentage,Tax rate out of range: -2.0%,WARNING
+DQ-11,NHPC,2022-03,tax_percentage,Tax rate out of range: -17.0%,WARNING
+DQ-11,NTPC,2016-03,tax_percentage,Tax rate out of range: -2.0%,WARNING
+DQ-11,NTPC,2019-03,tax_percentage,Tax rate out of range: -25.0%,WARNING
+DQ-11,PNB,2016-03,tax_percentage,Tax rate out of range: -31.0%,WARNING
+DQ-11,PNB,2018-03,tax_percentage,Tax rate out of range: -37.0%,WARNING
+DQ-11,PNB,2019-03,tax_percentage,Tax rate out of range: -35.0%,WARNING
+DQ-11,POWERGRID,2019-03,tax_percentage,Tax rate out of range: -10.0%,WARNING
+DQ-11,SBIN,2017-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,SBIN,2018-03,tax_percentage,Tax rate out of range: -66.0%,WARNING
+DQ-11,SHREECEM,2015-06,tax_percentage,Tax rate out of range: -6.0%,WARNING
+DQ-11,TATACONSUM,2016-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TATAMOTORS,2019-03,tax_percentage,Tax rate out of range: -8.0%,WARNING
+DQ-11,TATAMOTORS,2024-03,tax_percentage,Tax rate out of range: -14.0%,WARNING
+DQ-11,TATAPOWER,2013-03,tax_percentage,Tax rate out of range: 92.0%,WARNING
+DQ-11,TATAPOWER,2014-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TATAPOWER,2015-03,tax_percentage,Tax rate out of range: 72.0%,WARNING
+DQ-11,TATASTEEL,2013-03,tax_percentage,Tax rate out of range: 78.0%,WARNING
+DQ-11,TATASTEEL,2015-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TATASTEEL,2016-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TATASTEEL,2017-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TATASTEEL,2020-03,tax_percentage,Tax rate out of range: -99.0%,WARNING
+DQ-11,TATASTEEL,2024-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TRENT,2013-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TRENT,2014-03,tax_percentage,Tax rate out of range: 99.0%,WARNING
+DQ-11,TRENT,2021-03,tax_percentage,Tax rate out of range: -12.0%,WARNING
+DQ-11,TRENT,2022-03,tax_percentage,Tax rate out of range: 69.0%,WARNING
+DQ-11,INDIGO,2019-03,tax_percentage,Tax rate out of range: -99.0%,WARNING
+DQ-11,INDIGO,2020-03,tax_percentage,Tax rate out of range: -10.0%,WARNING
+DQ-11,INDIGO,2024-03,tax_percentage,Tax rate out of range: -2.0%,WARNING
+DQ-12,BHARTIARTL,2019-03,dividend_payout,Dividend payout > 200%: 244.0%,WARNING
+DQ-12,BRITANNIA,2021-03,dividend_payout,Dividend payout > 200%: 204.0%,WARNING
+DQ-12,M&M,2020-03,dividend_payout,Dividend payout > 200%: 205.0%,WARNING
+DQ-12,SBIN,2017-03,dividend_payout,Dividend payout > 200%: 859.0%,WARNING
+DQ-12,TATAPOWER,2015-03,dividend_payout,Dividend payout > 200%: 210.0%,WARNING
+DQ-13,ADANIENT,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,ADANIENT,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,ADANIENT,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BANKBARODA,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BANKBARODA,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2022,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2019,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2015,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2012,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BEL,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHARTIARTL,2021,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHARTIARTL,2018,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHARTIARTL,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHARTIARTL,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHARTIARTL,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2015,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2014,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2013,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2012,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BHEL,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2019,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2018,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2017,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2014,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2013,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2012,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BOSCHLTD,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BPCL,2022,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BPCL,2019,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BPCL,2016,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BPCL,2015,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BPCL,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,BPCL,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,DLF,2018,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,DLF,2017,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,EICHERMOT,2019,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,HAL,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,ITC,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,ITC,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,ITC,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,JINDALSTEL,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,JINDALSTEL,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,NESTLEIND,2023,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,SUNPHARMA,2011,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,SUNPHARMA,2010,Annual_Report,Missing Annual Report URL,WARNING
+DQ-13,SUNPHARMA,2009,Annual_Report,Missing Annual Report URL,WARNING
+DQ-14,JSWENERGY,2018-03,eps,"EPS sign inconsistency: net_profit=85, eps=0.0",WARNING
+DQ-14,TATAPOWER,2013-03,eps,"EPS sign inconsistency: net_profit=123, eps=0.0",WARNING
+DQ-14,TATAPOWER,2014-03,eps,"EPS sign inconsistency: net_profit=12, eps=-1.0",WARNING
+DQ-16,JIOFIN,,year_coverage,Only 2 years in profitandloss (< 5 required),WARNING
+DQ-16,JIOFIN,,year_coverage,Only 3 years in balancesheet (< 5 required),WARNING
+DQ-16,JIOFIN,,year_coverage,Only 2 years in cashflow (< 5 required),WARNING

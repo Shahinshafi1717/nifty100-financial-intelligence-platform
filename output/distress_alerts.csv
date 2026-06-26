@@ -1,0 +1,14 @@
+company_id,company_name,broad_sector,cfo_latest,cff_latest,health_score,pattern,alert
+AXISBANK,Axis Bank Ltd,Financials,-5555.0,22341.0,51.56,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,-68674.0,82709.0,53.57,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+BAJFINANCE,Bajaj Finance Ltd,Financials,-72760.0,82415.0,59.05,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+BANKBARODA,Bank of Baroda,Financials,-6274.0,5476.0,50.05,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+BHEL,Bharat Heavy Electricals Limited,Industrials,-3713.0,2656.0,9.97,"Distress — burning cash, raising funds to survive",CFO < 0 and financing inflows — potential distress
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,-35683.0,38471.0,52.56,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+GRASIM,Grasim Industries Ltd,Industrials,-10719.0,33908.0,47.79,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+M&M,Mahindra & Mahindra Ltd,Consumer Discretionary,-5630.0,12281.0,41.1,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+PFC,Power Finance Corporation Ltd,Financials,-97820.0,101261.0,42.97,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+PNB,Punjab National Bank,Financials,-27939.0,3518.0,34.05,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+RECLTD,REC Ltd,Financials,-57723.0,59588.0,46.99,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+SHRIRAMFIN,Shriram Finance Ltd,Financials,-31101.0,27609.0,50.12,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,-1253.0,2759.0,48.3,Startup / Distress — investing while losing cash,CFO < 0 and financing inflows — potential distress

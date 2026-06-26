@@ -1,0 +1,45 @@
+company_id,company_name,broad_sector,pe_ratio,sector_median_pe,valuation_flag
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,76.23,38.005,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,60.44,38.005,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,71.89,47.155,Caution
+ABB,Abbott India Ltd,Industrials,75.58,47.155,Caution
+COALINDIA,Coal India Ltd,Materials,34.27,55.62,Discount
+TRENT,Trent Ltd,Consumer Discretionary,8.65,38.005,Discount
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.73,47.06,Discount
+BEL,Bharat Electronics Ltd,Industrials,17.89,47.155,Discount
+BPCL,Bharat Petroleum Corporation Ltd,Energy,68.15,44.915,Caution
+TITAN,Titan Company Ltd,Consumer Discretionary,10.13,38.005,Discount
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,72.53,38.005,Caution
+INFY,Infosys Ltd,Information Technology,35.99,63.63,Discount
+HINDUNILVR,Hindustan Unilever Ltd,Consumer Staples,34.51,50.95,Discount
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,15.62,38.005,Discount
+LT,Larsen & Toubro Ltd,Industrials,30.8,47.155,Discount
+PIDILITIND,Pidilite Industries Ltd,Materials,36.12,55.62,Discount
+IOC,Indian Oil Corporation,Energy,28.61,44.915,Discount
+BAJFINANCE,Bajaj Finance Ltd,Financials,69.2,33.57,Caution
+IRFC,Indian Railway Finance Corporation Ltd,Financials,9.81,33.57,Discount
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,15.07,33.57,Discount
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,20.78,38.005,Discount
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,16.79,33.57,Discount
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,58.43,38.005,Caution
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,18.15,44.915,Discount
+SHRIRAMFIN,Shriram Finance Ltd,Financials,68.53,33.57,Caution
+BANKBARODA,Bank of Baroda,Financials,16.89,33.57,Discount
+SHREECEM,Shree Cement Ltd,Materials,25.87,55.62,Discount
+GRASIM,Grasim Industries Ltd,Industrials,79.35,47.155,Caution
+JSWENERGY,JSW Energy Ltd,Energy,24.79,44.915,Discount
+GAIL,GAIL (India) Ltd,Energy,25.84,44.915,Discount
+TATAPOWER,Tata Power Company Ltd,Energy,14.5,44.915,Discount
+SBILIFE,SBI Life Insurance Company Ltd,Financials,69.98,33.57,Caution
+INDUSINDBK,IndusInd Bank Ltd,Financials,8.99,33.57,Discount
+NHPC,NHPC Ltd,Energy,71.17,44.915,Caution
+NTPC,NTPC Ltd,Energy,30.8,44.915,Discount
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,67.07,38.005,Caution
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,9.54,38.005,Discount
+M&M,Mahindra & Mahindra Ltd,Consumer Discretionary,14.22,38.005,Discount
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,50.59,33.57,Caution
+NAUKRI,Info Edge (India) Ltd,Communication Services,32.88,48.33,Discount
+PNB,Punjab National Bank,Financials,19.29,33.57,Discount
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,20.83,33.57,Discount
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,33.59,50.95,Discount
+BHEL,Bharat Heavy Electricals Limited,Industrials,29.8,47.155,Discount

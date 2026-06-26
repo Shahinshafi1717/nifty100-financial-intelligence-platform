@@ -1,0 +1,642 @@
+company_id,type,rule_id,text,confidence_pct,sentiment_score,source
+ABB,pro,PRO-01,Strong ROE of 32.5% indicates excellent shareholder value creation.,90,0.888,auto_generated
+ABB,pro,PRO-04,Positive free cash flow of ₹1095 Cr signals strong cash generation.,85,0.881,auto_generated
+ABB,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+ABB,pro,PRO-06,Operating margin of 24.8% indicates strong operational efficiency.,80,0.7,auto_generated
+ABB,pro,PRO-07,"Net profit has grown at 21.7% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+ABB,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+ABB,pro,PRO-09,CFO/PAT ratio of 5.03× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ABB,pro,PRO-10,Composite Financial Health Score of 83/100 — rated Excellent.,90,0.572,auto_generated
+ABB,pro,PRO-11,ROCE of 36.5% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+ABB,con,CON-07,High CapEx intensity of 84.5% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ABB,con,CON-11,Working capital cycle of 221 days suggests slow collections or high inventory.,70,0.0,auto_generated
+ADANIENSOL,pro,PRO-03,"Revenue has compounded at 17.9% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ADANIENSOL,pro,PRO-04,Positive free cash flow of ₹1095 Cr signals strong cash generation.,85,0.881,auto_generated
+ADANIENSOL,pro,PRO-06,Operating margin of 34.4% indicates strong operational efficiency.,80,0.7,auto_generated
+ADANIENSOL,pro,PRO-09,CFO/PAT ratio of 5.05× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ADANIENSOL,con,CON-01,High debt-to-equity of 2.9× raises leverage concerns.,85,0.0,auto_generated
+ADANIENSOL,con,CON-04,"ROE of 9.5% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+ADANIENSOL,con,CON-07,High CapEx intensity of 29.8% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ADANIENT,pro,PRO-03,"Revenue has compounded at 19.0% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ADANIENT,pro,PRO-07,"Net profit has grown at 45.8% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+ADANIENT,pro,PRO-09,CFO/PAT ratio of 3.09× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ADANIENT,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+ADANIENT,con,CON-03,Thin net profit margin of 3.5% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+ADANIENT,con,CON-04,"ROE of 8.5% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+ADANIENT,con,CON-07,High CapEx intensity of 19.5% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ADANIGREEN,pro,PRO-03,"Revenue has compounded at 35.0% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ADANIGREEN,pro,PRO-06,Operating margin of 79.4% indicates strong operational efficiency.,80,0.7,auto_generated
+ADANIGREEN,pro,PRO-09,CFO/PAT ratio of 6.12× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ADANIGREEN,con,CON-01,High debt-to-equity of 6.6× raises leverage concerns.,85,0.0,auto_generated
+ADANIGREEN,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+ADANIGREEN,con,CON-05,Interest coverage of 1.7× is below the 2× safety threshold.,85,0.7,auto_generated
+ADANIGREEN,con,CON-07,High CapEx intensity of 228.4% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ADANIGREEN,con,CON-09,Composite Health Score of 31/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+ADANIPORTS,pro,PRO-03,"Revenue has compounded at 19.6% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ADANIPORTS,pro,PRO-04,Positive free cash flow of ₹8250 Cr signals strong cash generation.,85,0.881,auto_generated
+ADANIPORTS,pro,PRO-06,Operating margin of 58.4% indicates strong operational efficiency.,80,0.7,auto_generated
+ADANIPORTS,pro,PRO-09,CFO/PAT ratio of 1.85× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ADANIPORTS,pro,PRO-12,Consistent 10-year revenue CAGR of 18.7% reflects durable business model.,85,0.0,auto_generated
+ADANIPORTS,con,CON-07,High CapEx intensity of 25.3% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ADANIPOWER,pro,PRO-01,Strong ROE of 48.3% indicates excellent shareholder value creation.,90,0.888,auto_generated
+ADANIPOWER,pro,PRO-03,"Revenue has compounded at 16.1% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ADANIPOWER,pro,PRO-04,Positive free cash flow of ₹17651 Cr signals strong cash generation.,85,0.881,auto_generated
+ADANIPOWER,pro,PRO-06,Operating margin of 36.2% indicates strong operational efficiency.,80,0.7,auto_generated
+ADANIPOWER,pro,PRO-12,Consistent 10-year revenue CAGR of 12.6% reflects durable business model.,85,0.0,auto_generated
+AMBUJACEM,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+AMBUJACEM,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+AMBUJACEM,pro,PRO-09,CFO/PAT ratio of 1.19× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+AMBUJACEM,pro,PRO-12,Consistent 10-year revenue CAGR of 13.7% reflects durable business model.,85,0.0,auto_generated
+AMBUJACEM,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+AMBUJACEM,con,CON-06,Sluggish 5-year revenue CAGR of 5.0% indicates slow growth.,70,-0.026,auto_generated
+AMBUJACEM,con,CON-07,High CapEx intensity of 27.0% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+APOLLOHOSP,pro,PRO-04,Positive free cash flow of ₹383 Cr signals strong cash generation.,85,0.881,auto_generated
+APOLLOHOSP,pro,PRO-07,"Net profit has grown at 36.1% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+APOLLOHOSP,pro,PRO-09,CFO/PAT ratio of 2.05× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+APOLLOHOSP,pro,PRO-12,Consistent 10-year revenue CAGR of 15.9% reflects durable business model.,85,0.0,auto_generated
+APOLLOHOSP,con,CON-03,Thin net profit margin of 4.9% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+ASIANPAINT,pro,PRO-01,Strong ROE of 29.7% indicates excellent shareholder value creation.,90,0.888,auto_generated
+ASIANPAINT,pro,PRO-04,Positive free cash flow of ₹3556 Cr signals strong cash generation.,85,0.881,auto_generated
+ASIANPAINT,pro,PRO-05,Low debt-to-equity of 0.13× reflects conservative financial management.,80,-0.273,auto_generated
+ASIANPAINT,pro,PRO-06,Operating margin of 21.4% indicates strong operational efficiency.,80,0.7,auto_generated
+ASIANPAINT,pro,PRO-07,"Net profit has grown at 20.3% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+ASIANPAINT,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+ASIANPAINT,pro,PRO-09,CFO/PAT ratio of 1.10× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ASIANPAINT,pro,PRO-10,Composite Financial Health Score of 75/100 — rated Excellent.,90,0.572,auto_generated
+ASIANPAINT,pro,PRO-11,ROCE of 31.8% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+ATGL,pro,PRO-03,"Revenue has compounded at 21.1% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ATGL,pro,PRO-06,Operating margin of 24.7% indicates strong operational efficiency.,80,0.7,auto_generated
+ATGL,pro,PRO-07,"Net profit has grown at 23.9% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+ATGL,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BAJAJ-AUTO,pro,PRO-01,Strong ROE of 26.6% indicates excellent shareholder value creation.,90,0.888,auto_generated
+BAJAJ-AUTO,pro,PRO-04,Positive free cash flow of ₹6486 Cr signals strong cash generation.,85,0.881,auto_generated
+BAJAJ-AUTO,pro,PRO-05,Low debt-to-equity of 0.07× reflects conservative financial management.,80,-0.273,auto_generated
+BAJAJ-AUTO,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BAJAJ-AUTO,pro,PRO-11,ROCE of 27.2% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+AXISBANK,pro,PRO-06,Operating margin of 34.7% indicates strong operational efficiency.,80,0.7,auto_generated
+AXISBANK,pro,PRO-07,"Net profit has grown at 39.7% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+AXISBANK,pro,PRO-12,Consistent 10-year revenue CAGR of 13.6% reflects durable business model.,85,0.0,auto_generated
+AXISBANK,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+AXISBANK,con,CON-05,Interest coverage of 1.7× is below the 2× safety threshold.,85,0.7,auto_generated
+AXISBANK,con,CON-08,Low CFO/PAT ratio of -0.22× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+AXISBANK,con,CON-11,Working capital cycle of 3717 days suggests slow collections or high inventory.,70,0.0,auto_generated
+BAJAJFINSV,pro,PRO-01,Strong ROE of 25.9% indicates excellent shareholder value creation.,90,0.888,auto_generated
+BAJAJFINSV,pro,PRO-03,"Revenue has compounded at 21.0% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+BAJAJFINSV,pro,PRO-06,Operating margin of 37.0% indicates strong operational efficiency.,80,0.7,auto_generated
+BAJAJFINSV,pro,PRO-07,"Net profit has grown at 23.7% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+BAJAJFINSV,pro,PRO-12,Consistent 10-year revenue CAGR of 33.8% reflects durable business model.,85,0.0,auto_generated
+BAJAJFINSV,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+BAJAJFINSV,con,CON-08,Low CFO/PAT ratio of -4.40× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+BAJAJFINSV,con,CON-11,Working capital cycle of 579 days suggests slow collections or high inventory.,70,0.0,auto_generated
+BAJAJHLDNG,pro,PRO-03,"Revenue has compounded at 31.6% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+BAJAJHLDNG,pro,PRO-04,Positive free cash flow of ₹1469 Cr signals strong cash generation.,85,0.881,auto_generated
+BAJAJHLDNG,pro,PRO-05,Low debt-to-equity of 0.00× reflects conservative financial management.,80,-0.273,auto_generated
+BAJAJHLDNG,pro,PRO-06,Operating margin of 91.8% indicates strong operational efficiency.,80,0.7,auto_generated
+BAJAJHLDNG,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BAJAJHLDNG,pro,PRO-12,Consistent 10-year revenue CAGR of 14.9% reflects durable business model.,85,0.0,auto_generated
+BAJAJHLDNG,con,CON-07,High CapEx intensity of 27.7% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+BAJAJHLDNG,con,CON-08,Low CFO/PAT ratio of 0.26× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+BAJFINANCE,pro,PRO-03,"Revenue has compounded at 24.4% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+BAJFINANCE,pro,PRO-06,Operating margin of 29.3% indicates strong operational efficiency.,80,0.7,auto_generated
+BAJFINANCE,pro,PRO-07,"Net profit has grown at 29.3% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+BAJFINANCE,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BAJFINANCE,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+BAJFINANCE,con,CON-07,High CapEx intensity of 13.0% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+BAJFINANCE,con,CON-08,Low CFO/PAT ratio of -5.03× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+BAJFINANCE,con,CON-11,Working capital cycle of 2230 days suggests slow collections or high inventory.,70,0.0,auto_generated
+BANKBARODA,pro,PRO-03,"Revenue has compounded at 17.5% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+BANKBARODA,pro,PRO-06,Operating margin of 37.5% indicates strong operational efficiency.,80,0.7,auto_generated
+BANKBARODA,pro,PRO-07,"Net profit has grown at 74.5% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+BANKBARODA,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+BANKBARODA,con,CON-05,Interest coverage of 1.9× is below the 2× safety threshold.,85,0.7,auto_generated
+BANKBARODA,con,CON-08,Low CFO/PAT ratio of -0.33× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+BANKBARODA,con,CON-11,Working capital cycle of 3568 days suggests slow collections or high inventory.,70,0.0,auto_generated
+BHARTIARTL,pro,PRO-04,Positive free cash flow of ₹27809 Cr signals strong cash generation.,85,0.881,auto_generated
+BHARTIARTL,pro,PRO-06,Operating margin of 52.2% indicates strong operational efficiency.,80,0.7,auto_generated
+BHARTIARTL,pro,PRO-07,"Net profit has grown at 38.4% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+BHARTIARTL,pro,PRO-09,CFO/PAT ratio of 9.22× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+BHARTIARTL,con,CON-01,High debt-to-equity of 2.6× raises leverage concerns.,85,0.0,auto_generated
+BHARTIARTL,con,CON-07,High CapEx intensity of 34.1% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+BEL,pro,PRO-01,Strong ROE of 4744.0% indicates excellent shareholder value creation.,90,0.888,auto_generated
+BEL,pro,PRO-06,Operating margin of 24.9% indicates strong operational efficiency.,80,0.7,auto_generated
+BEL,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BEL,pro,PRO-09,CFO/PAT ratio of 1.17× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+BEL,pro,PRO-10,Composite Financial Health Score of 73/100 — rated Excellent.,90,0.572,auto_generated
+BEL,pro,PRO-11,ROCE of 3628.3% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+BEL,pro,PRO-12,Consistent 10-year revenue CAGR of 12.0% reflects durable business model.,85,0.0,auto_generated
+BEL,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+BEL,con,CON-07,High CapEx intensity of 29.2% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+BHEL,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+BHEL,con,CON-03,Thin net profit margin of 1.2% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+BHEL,con,CON-04,"ROE of 1.2% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+BHEL,con,CON-05,Interest coverage of 1.6× is below the 2× safety threshold.,85,0.7,auto_generated
+BHEL,con,CON-06,Sluggish 5-year revenue CAGR of -4.7% indicates slow growth.,70,-0.026,auto_generated
+BHEL,con,CON-08,Low CFO/PAT ratio of -13.17× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+BHEL,con,CON-09,Composite Health Score of 10/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+BHEL,con,CON-11,Working capital cycle of 461 days suggests slow collections or high inventory.,70,0.0,auto_generated
+BOSCHLTD,pro,PRO-01,Strong ROE of 20.6% indicates excellent shareholder value creation.,90,0.888,auto_generated
+BOSCHLTD,pro,PRO-04,Positive free cash flow of ₹1536 Cr signals strong cash generation.,85,0.881,auto_generated
+BOSCHLTD,pro,PRO-05,Low debt-to-equity of 0.00× reflects conservative financial management.,80,-0.273,auto_generated
+BOSCHLTD,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BPCL,pro,PRO-01,Strong ROE of 35.5% indicates excellent shareholder value creation.,90,0.888,auto_generated
+BPCL,pro,PRO-04,Positive free cash flow of ₹25415 Cr signals strong cash generation.,85,0.881,auto_generated
+BPCL,pro,PRO-07,"Net profit has grown at 25.8% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+BPCL,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BPCL,pro,PRO-09,CFO/PAT ratio of 1.34× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+BPCL,pro,PRO-10,Composite Financial Health Score of 72/100 — rated Excellent.,90,0.572,auto_generated
+BPCL,pro,PRO-11,ROCE of 28.6% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+BRITANNIA,pro,PRO-01,Strong ROE of 54.1% indicates excellent shareholder value creation.,90,0.888,auto_generated
+BRITANNIA,pro,PRO-04,Positive free cash flow of ₹3050 Cr signals strong cash generation.,85,0.881,auto_generated
+BRITANNIA,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+BRITANNIA,pro,PRO-09,CFO/PAT ratio of 1.21× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+BRITANNIA,pro,PRO-11,ROCE of 47.7% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+CANBK,pro,PRO-03,"Revenue has compounded at 18.2% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+CANBK,pro,PRO-04,Positive free cash flow of ₹13296 Cr signals strong cash generation.,85,0.881,auto_generated
+CANBK,pro,PRO-06,Operating margin of 41.8% indicates strong operational efficiency.,80,0.7,auto_generated
+CANBK,pro,PRO-07,"Net profit has grown at 85.8% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+CANBK,con,CON-05,Interest coverage of 1.6× is below the 2× safety threshold.,85,0.7,auto_generated
+CANBK,con,CON-11,Working capital cycle of 3469 days suggests slow collections or high inventory.,70,0.0,auto_generated
+CHOLAFIN,pro,PRO-03,"Revenue has compounded at 21.9% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+CHOLAFIN,pro,PRO-06,Operating margin of 28.1% indicates strong operational efficiency.,80,0.7,auto_generated
+CHOLAFIN,pro,PRO-07,"Net profit has grown at 23.4% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+CHOLAFIN,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+CHOLAFIN,pro,PRO-12,Consistent 10-year revenue CAGR of 19.3% reflects durable business model.,85,0.0,auto_generated
+CHOLAFIN,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+CHOLAFIN,con,CON-07,High CapEx intensity of 14.9% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+CHOLAFIN,con,CON-08,Low CFO/PAT ratio of -10.43× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+CHOLAFIN,con,CON-11,Working capital cycle of 2828 days suggests slow collections or high inventory.,70,0.0,auto_generated
+CIPLA,pro,PRO-04,Positive free cash flow of ₹1152 Cr signals strong cash generation.,85,0.881,auto_generated
+CIPLA,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+CIPLA,pro,PRO-06,Operating margin of 75.6% indicates strong operational efficiency.,80,0.7,auto_generated
+CIPLA,pro,PRO-07,"Net profit has grown at 22.7% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+CIPLA,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+CIPLA,pro,PRO-10,Composite Financial Health Score of 74/100 — rated Excellent.,90,0.572,auto_generated
+CIPLA,pro,PRO-11,ROCE of 67.6% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+CIPLA,con,CON-07,High CapEx intensity of 11.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+COALINDIA,pro,PRO-01,Strong ROE of 45.2% indicates excellent shareholder value creation.,90,0.888,auto_generated
+COALINDIA,pro,PRO-04,Positive free cash flow of ₹13617 Cr signals strong cash generation.,85,0.881,auto_generated
+COALINDIA,pro,PRO-05,Low debt-to-equity of 0.08× reflects conservative financial management.,80,-0.273,auto_generated
+COALINDIA,pro,PRO-06,Operating margin of 66.3% indicates strong operational efficiency.,80,0.7,auto_generated
+COALINDIA,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+COALINDIA,pro,PRO-10,Composite Financial Health Score of 79/100 — rated Excellent.,90,0.572,auto_generated
+COALINDIA,pro,PRO-11,ROCE of 98.2% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+COALINDIA,con,CON-08,Low CFO/PAT ratio of 0.48× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+DABUR,pro,PRO-04,Positive free cash flow of ₹1042 Cr signals strong cash generation.,85,0.881,auto_generated
+DABUR,pro,PRO-05,Low debt-to-equity of 0.14× reflects conservative financial management.,80,-0.273,auto_generated
+DABUR,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+DABUR,pro,PRO-09,CFO/PAT ratio of 1.11× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+DIVISLAB,pro,PRO-04,Positive free cash flow of ₹992 Cr signals strong cash generation.,85,0.881,auto_generated
+DIVISLAB,pro,PRO-05,Low debt-to-equity of 0.00× reflects conservative financial management.,80,-0.273,auto_generated
+DIVISLAB,pro,PRO-06,Operating margin of 28.2% indicates strong operational efficiency.,80,0.7,auto_generated
+DIVISLAB,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+DIVISLAB,con,CON-11,Working capital cycle of 371 days suggests slow collections or high inventory.,70,0.0,auto_generated
+DLF,pro,PRO-04,Positive free cash flow of ₹1010 Cr signals strong cash generation.,85,0.881,auto_generated
+DLF,pro,PRO-05,Low debt-to-equity of 0.12× reflects conservative financial management.,80,-0.273,auto_generated
+DLF,pro,PRO-06,Operating margin of 33.0% indicates strong operational efficiency.,80,0.7,auto_generated
+DLF,con,CON-04,"ROE of 6.9% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+DLF,con,CON-06,Sluggish 5-year revenue CAGR of -5.1% indicates slow growth.,70,-0.026,auto_generated
+DLF,con,CON-07,High CapEx intensity of 23.8% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+DLF,con,CON-11,Working capital cycle of 1146 days suggests slow collections or high inventory.,70,0.0,auto_generated
+DMART,pro,PRO-03,"Revenue has compounded at 20.5% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+DMART,pro,PRO-04,Positive free cash flow of ₹278 Cr signals strong cash generation.,85,0.881,auto_generated
+DMART,pro,PRO-05,Low debt-to-equity of 0.03× reflects conservative financial management.,80,-0.273,auto_generated
+DMART,pro,PRO-07,"Net profit has grown at 23.0% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+DMART,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+DMART,pro,PRO-09,CFO/PAT ratio of 1.08× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+DMART,pro,PRO-12,Consistent 10-year revenue CAGR of 26.9% reflects durable business model.,85,0.0,auto_generated
+DMART,con,CON-03,Thin net profit margin of 5.0% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+DRREDDY,pro,PRO-04,Positive free cash flow of ₹509 Cr signals strong cash generation.,85,0.881,auto_generated
+DRREDDY,pro,PRO-05,Low debt-to-equity of 0.07× reflects conservative financial management.,80,-0.273,auto_generated
+DRREDDY,pro,PRO-06,Operating margin of 28.3% indicates strong operational efficiency.,80,0.7,auto_generated
+DRREDDY,pro,PRO-07,"Net profit has grown at 23.4% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+DRREDDY,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+DRREDDY,pro,PRO-10,Composite Financial Health Score of 73/100 — rated Excellent.,90,0.572,auto_generated
+DRREDDY,pro,PRO-11,ROCE of 21.4% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+DRREDDY,con,CON-07,High CapEx intensity of 14.4% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+EICHERMOT,pro,PRO-01,Strong ROE of 22.2% indicates excellent shareholder value creation.,90,0.888,auto_generated
+EICHERMOT,pro,PRO-04,Positive free cash flow of ₹890 Cr signals strong cash generation.,85,0.881,auto_generated
+EICHERMOT,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+EICHERMOT,pro,PRO-06,Operating margin of 26.2% indicates strong operational efficiency.,80,0.7,auto_generated
+EICHERMOT,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+EICHERMOT,pro,PRO-11,ROCE of 20.2% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+EICHERMOT,con,CON-07,High CapEx intensity of 17.1% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+GAIL,pro,PRO-04,Positive free cash flow of ₹4360 Cr signals strong cash generation.,85,0.881,auto_generated
+GAIL,pro,PRO-05,Low debt-to-equity of 0.28× reflects conservative financial management.,80,-0.273,auto_generated
+GAIL,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+GAIL,pro,PRO-09,CFO/PAT ratio of 1.27× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+GODREJCP,pro,PRO-05,Low debt-to-equity of 0.26× reflects conservative financial management.,80,-0.273,auto_generated
+GODREJCP,pro,PRO-06,Operating margin of 21.0% indicates strong operational efficiency.,80,0.7,auto_generated
+GODREJCP,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+GODREJCP,con,CON-07,High CapEx intensity of 24.4% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+GODREJCP,con,CON-08,Low CFO/PAT ratio of -3.69× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+GODREJCP,con,CON-09,Composite Health Score of 16/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+GODREJCP,con,CON-10,Negative net profit margin of -4.0% — company is loss-making.,90,-0.202,auto_generated
+GRASIM,pro,PRO-06,Operating margin of 20.8% indicates strong operational efficiency.,80,0.7,auto_generated
+GRASIM,pro,PRO-07,"Net profit has grown at 29.3% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+GRASIM,pro,PRO-12,Consistent 10-year revenue CAGR of 16.5% reflects durable business model.,85,0.0,auto_generated
+GRASIM,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+GRASIM,con,CON-07,High CapEx intensity of 17.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+GRASIM,con,CON-08,Low CFO/PAT ratio of -1.08× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+HAL,pro,PRO-01,Strong ROE of 3816.6% indicates excellent shareholder value creation.,90,0.888,auto_generated
+HAL,pro,PRO-04,Positive free cash flow of ₹1814 Cr signals strong cash generation.,85,0.881,auto_generated
+HAL,pro,PRO-06,Operating margin of 32.1% indicates strong operational efficiency.,80,0.7,auto_generated
+HAL,pro,PRO-07,"Net profit has grown at 26.5% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+HAL,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HAL,pro,PRO-09,CFO/PAT ratio of 1.08× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HAL,pro,PRO-10,Composite Financial Health Score of 86/100 — rated Excellent.,90,0.572,auto_generated
+HAL,pro,PRO-11,ROCE of 2591.0% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+HAL,con,CON-07,High CapEx intensity of 21.1% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+HAVELLS,pro,PRO-04,Positive free cash flow of ₹335 Cr signals strong cash generation.,85,0.881,auto_generated
+HAVELLS,pro,PRO-05,Low debt-to-equity of 0.04× reflects conservative financial management.,80,-0.273,auto_generated
+HAVELLS,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HAVELLS,pro,PRO-09,CFO/PAT ratio of 1.54× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HCLTECH,pro,PRO-01,Strong ROE of 23.0% indicates excellent shareholder value creation.,90,0.888,auto_generated
+HCLTECH,pro,PRO-04,Positive free cash flow of ₹15840 Cr signals strong cash generation.,85,0.881,auto_generated
+HCLTECH,pro,PRO-05,Low debt-to-equity of 0.08× reflects conservative financial management.,80,-0.273,auto_generated
+HCLTECH,pro,PRO-06,Operating margin of 22.0% indicates strong operational efficiency.,80,0.7,auto_generated
+HCLTECH,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HCLTECH,pro,PRO-09,CFO/PAT ratio of 1.43× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HCLTECH,pro,PRO-11,ROCE of 27.1% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+HCLTECH,pro,PRO-12,Consistent 10-year revenue CAGR of 13.1% reflects durable business model.,85,0.0,auto_generated
+HDFCBANK,pro,PRO-03,"Revenue has compounded at 22.0% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+HDFCBANK,pro,PRO-04,Positive free cash flow of ₹35669 Cr signals strong cash generation.,85,0.881,auto_generated
+HDFCBANK,pro,PRO-06,Operating margin of 61.4% indicates strong operational efficiency.,80,0.7,auto_generated
+HDFCBANK,pro,PRO-07,"Net profit has grown at 23.9% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+HDFCBANK,pro,PRO-12,Consistent 10-year revenue CAGR of 20.9% reflects durable business model.,85,0.0,auto_generated
+HDFCBANK,con,CON-05,Interest coverage of 1.4× is below the 2× safety threshold.,85,0.7,auto_generated
+HDFCBANK,con,CON-08,Low CFO/PAT ratio of 0.29× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+HDFCBANK,con,CON-11,Working capital cycle of 3276 days suggests slow collections or high inventory.,70,0.0,auto_generated
+HDFCLIFE,pro,PRO-03,"Revenue has compounded at 21.2% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+HDFCLIFE,pro,PRO-05,Low debt-to-equity of 0.06× reflects conservative financial management.,80,-0.273,auto_generated
+HDFCLIFE,pro,PRO-06,Operating margin of 99.5% indicates strong operational efficiency.,80,0.7,auto_generated
+HDFCLIFE,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HDFCLIFE,pro,PRO-09,CFO/PAT ratio of 6.81× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HDFCLIFE,pro,PRO-12,Consistent 10-year revenue CAGR of 19.4% reflects durable business model.,85,0.0,auto_generated
+HDFCLIFE,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+HDFCLIFE,con,CON-03,Thin net profit margin of 1.6% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+HDFCLIFE,con,CON-07,High CapEx intensity of 13.4% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+HEROMOTOCO,pro,PRO-01,Strong ROE of 21.1% indicates excellent shareholder value creation.,90,0.888,auto_generated
+HEROMOTOCO,pro,PRO-04,Positive free cash flow of ₹3095 Cr signals strong cash generation.,85,0.881,auto_generated
+HEROMOTOCO,pro,PRO-05,Low debt-to-equity of 0.03× reflects conservative financial management.,80,-0.273,auto_generated
+HEROMOTOCO,pro,PRO-06,Operating margin of 86.1% indicates strong operational efficiency.,80,0.7,auto_generated
+HEROMOTOCO,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HEROMOTOCO,pro,PRO-09,CFO/PAT ratio of 1.32× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HEROMOTOCO,pro,PRO-11,ROCE of 173.7% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+HEROMOTOCO,con,CON-06,Sluggish 5-year revenue CAGR of 2.2% indicates slow growth.,70,-0.026,auto_generated
+HINDALCO,pro,PRO-04,Positive free cash flow of ₹9789 Cr signals strong cash generation.,85,0.881,auto_generated
+HINDALCO,pro,PRO-06,Operating margin of 88.9% indicates strong operational efficiency.,80,0.7,auto_generated
+HINDALCO,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HINDALCO,pro,PRO-09,CFO/PAT ratio of 2.37× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HINDALCO,pro,PRO-11,ROCE of 113.6% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+HINDALCO,con,CON-03,Thin net profit margin of 4.7% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+HINDALCO,con,CON-04,"ROE of 9.6% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+HINDUNILVR,pro,PRO-01,Strong ROE of 20.1% indicates excellent shareholder value creation.,90,0.888,auto_generated
+HINDUNILVR,pro,PRO-04,Positive free cash flow of ₹10145 Cr signals strong cash generation.,85,0.881,auto_generated
+HINDUNILVR,pro,PRO-05,Low debt-to-equity of 0.03× reflects conservative financial management.,80,-0.273,auto_generated
+HINDUNILVR,pro,PRO-06,Operating margin of 76.3% indicates strong operational efficiency.,80,0.7,auto_generated
+HINDUNILVR,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+HINDUNILVR,pro,PRO-09,CFO/PAT ratio of 1.50× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+HINDUNILVR,pro,PRO-11,ROCE of 87.3% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+ICICIBANK,pro,PRO-03,"Revenue has compounded at 17.3% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ICICIBANK,pro,PRO-04,Positive free cash flow of ₹12547 Cr signals strong cash generation.,85,0.881,auto_generated
+ICICIBANK,pro,PRO-06,Operating margin of 62.4% indicates strong operational efficiency.,80,0.7,auto_generated
+ICICIBANK,pro,PRO-07,"Net profit has grown at 51.9% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+ICICIBANK,pro,PRO-09,CFO/PAT ratio of 3.41× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ICICIBANK,pro,PRO-12,Consistent 10-year revenue CAGR of 12.4% reflects durable business model.,85,0.0,auto_generated
+ICICIBANK,con,CON-05,Interest coverage of 1.3× is below the 2× safety threshold.,85,0.7,auto_generated
+ICICIBANK,con,CON-07,High CapEx intensity of 90.7% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ICICIBANK,con,CON-11,Working capital cycle of 2435 days suggests slow collections or high inventory.,70,0.0,auto_generated
+ICICIGI,pro,PRO-04,Positive free cash flow of ₹486 Cr signals strong cash generation.,85,0.881,auto_generated
+ICICIGI,pro,PRO-05,Low debt-to-equity of 0.00× reflects conservative financial management.,80,-0.273,auto_generated
+ICICIGI,pro,PRO-06,Operating margin of 87.4% indicates strong operational efficiency.,80,0.7,auto_generated
+ICICIGI,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+ICICIGI,pro,PRO-09,CFO/PAT ratio of 1.25× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ICICIGI,pro,PRO-12,Consistent 10-year revenue CAGR of 16.8% reflects durable business model.,85,0.0,auto_generated
+ICICIPRULI,pro,PRO-03,"Revenue has compounded at 16.8% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+ICICIPRULI,pro,PRO-04,Positive free cash flow of ₹105 Cr signals strong cash generation.,85,0.881,auto_generated
+ICICIPRULI,pro,PRO-05,Low debt-to-equity of 0.11× reflects conservative financial management.,80,-0.273,auto_generated
+ICICIPRULI,pro,PRO-06,Operating margin of 102.0% indicates strong operational efficiency.,80,0.7,auto_generated
+ICICIPRULI,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+ICICIPRULI,pro,PRO-12,Consistent 10-year revenue CAGR of 15.2% reflects durable business model.,85,0.0,auto_generated
+ICICIPRULI,con,CON-03,Thin net profit margin of 0.9% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+ICICIPRULI,con,CON-04,"ROE of 7.7% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+ICICIPRULI,con,CON-08,Low CFO/PAT ratio of -8.60× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+ICICIPRULI,con,CON-09,Composite Health Score of 29/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+INDUSINDBK,pro,PRO-03,"Revenue has compounded at 15.5% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+INDUSINDBK,pro,PRO-06,Operating margin of 38.6% indicates strong operational efficiency.,80,0.7,auto_generated
+INDUSINDBK,pro,PRO-07,"Net profit has grown at 22.1% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+INDUSINDBK,pro,PRO-12,Consistent 10-year revenue CAGR of 18.7% reflects durable business model.,85,0.0,auto_generated
+INDUSINDBK,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+INDUSINDBK,con,CON-05,Interest coverage of 1.9× is below the 2× safety threshold.,85,0.7,auto_generated
+INDUSINDBK,con,CON-08,Low CFO/PAT ratio of -1.88× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+INDUSINDBK,con,CON-11,Working capital cycle of 3084 days suggests slow collections or high inventory.,70,0.0,auto_generated
+INFY,pro,PRO-01,Strong ROE of 29.8% indicates excellent shareholder value creation.,90,0.888,auto_generated
+INFY,pro,PRO-04,Positive free cash flow of ₹20117 Cr signals strong cash generation.,85,0.881,auto_generated
+INFY,pro,PRO-05,Low debt-to-equity of 0.09× reflects conservative financial management.,80,-0.273,auto_generated
+INFY,pro,PRO-06,Operating margin of 23.7% indicates strong operational efficiency.,80,0.7,auto_generated
+INFY,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+INFY,pro,PRO-11,ROCE of 32.9% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+IOC,pro,PRO-01,Strong ROE of 23.5% indicates excellent shareholder value creation.,90,0.888,auto_generated
+IOC,pro,PRO-04,Positive free cash flow of ₹39635 Cr signals strong cash generation.,85,0.881,auto_generated
+IOC,pro,PRO-07,"Net profit has grown at 20.1% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+IOC,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+IOC,pro,PRO-09,CFO/PAT ratio of 1.65× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+IRCTC,pro,PRO-01,Strong ROE of 34.4% indicates excellent shareholder value creation.,90,0.888,auto_generated
+IRCTC,pro,PRO-03,"Revenue has compounded at 18.0% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+IRCTC,pro,PRO-04,Positive free cash flow of ₹667 Cr signals strong cash generation.,85,0.881,auto_generated
+IRCTC,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+IRCTC,pro,PRO-06,Operating margin of 34.3% indicates strong operational efficiency.,80,0.7,auto_generated
+IRCTC,pro,PRO-07,"Net profit has grown at 29.2% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+IRCTC,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+IRCTC,pro,PRO-10,Composite Financial Health Score of 88/100 — rated Excellent.,90,0.572,auto_generated
+IRCTC,pro,PRO-11,ROCE of 42.8% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+IRCTC,con,CON-11,Working capital cycle of 214 days suggests slow collections or high inventory.,70,0.0,auto_generated
+IRFC,pro,PRO-03,"Revenue has compounded at 19.1% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+IRFC,pro,PRO-04,Positive free cash flow of ₹7906 Cr signals strong cash generation.,85,0.881,auto_generated
+IRFC,pro,PRO-06,Operating margin of 99.5% indicates strong operational efficiency.,80,0.7,auto_generated
+IRFC,pro,PRO-07,"Net profit has grown at 23.2% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+IRFC,pro,PRO-09,CFO/PAT ratio of 1.23× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+IRFC,pro,PRO-12,Consistent 10-year revenue CAGR of 15.7% reflects durable business model.,85,0.0,auto_generated
+IRFC,con,CON-05,Interest coverage of 1.3× is below the 2× safety threshold.,85,0.7,auto_generated
+IRFC,con,CON-11,Working capital cycle of 6317 days suggests slow collections or high inventory.,70,0.0,auto_generated
+ITC,pro,PRO-01,Strong ROE of 27.9% indicates excellent shareholder value creation.,90,0.888,auto_generated
+ITC,pro,PRO-04,Positive free cash flow of ₹18742 Cr signals strong cash generation.,85,0.881,auto_generated
+ITC,pro,PRO-05,Low debt-to-equity of 0.00× reflects conservative financial management.,80,-0.273,auto_generated
+ITC,pro,PRO-06,Operating margin of 37.0% indicates strong operational efficiency.,80,0.7,auto_generated
+ITC,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+ITC,pro,PRO-11,ROCE of 32.6% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+JINDALSTEL,pro,PRO-06,Operating margin of 20.3% indicates strong operational efficiency.,80,0.7,auto_generated
+JINDALSTEL,pro,PRO-09,CFO/PAT ratio of 1.01× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+JINDALSTEL,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+JINDALSTEL,con,CON-06,Sluggish 5-year revenue CAGR of 1.4% indicates slow growth.,70,-0.026,auto_generated
+JINDALSTEL,con,CON-07,High CapEx intensity of 16.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+JINDALSTEL,con,CON-09,Composite Health Score of 28/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+JIOFIN,pro,PRO-02,"Company is debt-free with zero borrowings, providing strong balance sheet resilience.",95,0.511,auto_generated
+JIOFIN,pro,PRO-04,Positive free cash flow of ₹763 Cr signals strong cash generation.,85,0.881,auto_generated
+JIOFIN,pro,PRO-06,Operating margin of 84.0% indicates strong operational efficiency.,80,0.7,auto_generated
+JIOFIN,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+JIOFIN,con,CON-04,"ROE of 1.2% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+JIOFIN,con,CON-07,High CapEx intensity of 77.7% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+JIOFIN,con,CON-08,Low CFO/PAT ratio of -0.42× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+JIOFIN,con,CON-09,Composite Health Score of 33/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+JIOFIN,con,CON-11,Working capital cycle of 1118 days suggests slow collections or high inventory.,70,0.0,auto_generated
+JSWENERGY,pro,PRO-06,Operating margin of 46.9% indicates strong operational efficiency.,80,0.7,auto_generated
+JSWENERGY,pro,PRO-07,"Net profit has grown at 20.3% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+JSWENERGY,pro,PRO-09,CFO/PAT ratio of 3.61× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+JSWENERGY,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+JSWENERGY,con,CON-04,"ROE of 8.3% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+JSWENERGY,con,CON-06,Sluggish 5-year revenue CAGR of 4.7% indicates slow growth.,70,-0.026,auto_generated
+JSWENERGY,con,CON-07,High CapEx intensity of 71.4% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+JSWENERGY,con,CON-11,Working capital cycle of 195 days suggests slow collections or high inventory.,70,0.0,auto_generated
+JSWSTEEL,pro,PRO-03,"Revenue has compounded at 15.6% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+JSWSTEEL,pro,PRO-09,CFO/PAT ratio of 1.35× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+JSWSTEEL,pro,PRO-12,Consistent 10-year revenue CAGR of 13.1% reflects durable business model.,85,0.0,auto_generated
+JSWSTEEL,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+JSWSTEEL,con,CON-09,Composite Health Score of 32/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+KOTAKBANK,pro,PRO-04,Positive free cash flow of ₹6766 Cr signals strong cash generation.,85,0.881,auto_generated
+KOTAKBANK,pro,PRO-06,Operating margin of 83.7% indicates strong operational efficiency.,80,0.7,auto_generated
+KOTAKBANK,pro,PRO-07,"Net profit has grown at 20.4% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+KOTAKBANK,pro,PRO-12,Consistent 10-year revenue CAGR of 16.7% reflects durable business model.,85,0.0,auto_generated
+KOTAKBANK,con,CON-05,Interest coverage of 1.2× is below the 2× safety threshold.,85,0.7,auto_generated
+KOTAKBANK,con,CON-07,High CapEx intensity of 15.9% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+KOTAKBANK,con,CON-11,Working capital cycle of 2599 days suggests slow collections or high inventory.,70,0.0,auto_generated
+LICI,pro,PRO-01,Strong ROE of 49.4% indicates excellent shareholder value creation.,90,0.888,auto_generated
+LICI,pro,PRO-02,"Company is debt-free with zero borrowings, providing strong balance sheet resilience.",95,0.511,auto_generated
+LICI,pro,PRO-04,Positive free cash flow of ₹853 Cr signals strong cash generation.,85,0.881,auto_generated
+LICI,pro,PRO-07,"Net profit has grown at 73.2% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+LICI,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+LICI,pro,PRO-10,Composite Financial Health Score of 70/100 — rated Excellent.,90,0.572,auto_generated
+LICI,con,CON-03,Thin net profit margin of 4.8% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+LODHA,pro,PRO-06,Operating margin of 25.8% indicates strong operational efficiency.,80,0.7,auto_generated
+LODHA,pro,PRO-09,CFO/PAT ratio of 1.62× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+LODHA,pro,PRO-12,Consistent 10-year revenue CAGR of 13.3% reflects durable business model.,85,0.0,auto_generated
+LODHA,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+LODHA,con,CON-04,"ROE of 8.9% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+LODHA,con,CON-06,Sluggish 5-year revenue CAGR of -2.8% indicates slow growth.,70,-0.026,auto_generated
+LODHA,con,CON-07,High CapEx intensity of 28.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+LODHA,con,CON-09,Composite Health Score of 27/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+LODHA,con,CON-11,Working capital cycle of 760 days suggests slow collections or high inventory.,70,0.0,auto_generated
+LT,pro,PRO-01,Strong ROE of 77.7% indicates excellent shareholder value creation.,90,0.888,auto_generated
+LT,pro,PRO-04,Positive free cash flow of ₹20445 Cr signals strong cash generation.,85,0.881,auto_generated
+LT,pro,PRO-05,Low debt-to-equity of 0.10× reflects conservative financial management.,80,-0.273,auto_generated
+LT,pro,PRO-09,CFO/PAT ratio of 1.17× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+LT,pro,PRO-11,ROCE of 118.5% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+LTIM,pro,PRO-01,Strong ROE of 22.9% indicates excellent shareholder value creation.,90,0.888,auto_generated
+LTIM,pro,PRO-03,"Revenue has compounded at 30.3% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+LTIM,pro,PRO-04,Positive free cash flow of ₹1752 Cr signals strong cash generation.,85,0.881,auto_generated
+LTIM,pro,PRO-05,Low debt-to-equity of 0.10× reflects conservative financial management.,80,-0.273,auto_generated
+LTIM,pro,PRO-07,"Net profit has grown at 24.8% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+LTIM,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+LTIM,pro,PRO-09,CFO/PAT ratio of 1.24× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+LTIM,pro,PRO-10,Composite Financial Health Score of 76/100 — rated Excellent.,90,0.572,auto_generated
+LTIM,pro,PRO-11,ROCE of 25.2% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+LTIM,pro,PRO-12,Consistent 10-year revenue CAGR of 21.9% reflects durable business model.,85,0.0,auto_generated
+LTIM,con,CON-07,High CapEx intensity of 11.0% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+M&M,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+M&M,con,CON-08,Low CFO/PAT ratio of -0.46× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+M&M,con,CON-11,Working capital cycle of 272 days suggests slow collections or high inventory.,70,0.0,auto_generated
+MARUTI,pro,PRO-04,Positive free cash flow of ₹4936 Cr signals strong cash generation.,85,0.881,auto_generated
+MARUTI,pro,PRO-05,Low debt-to-equity of 0.00× reflects conservative financial management.,80,-0.273,auto_generated
+MARUTI,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+MARUTI,pro,PRO-09,CFO/PAT ratio of 1.25× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+MARUTI,pro,PRO-12,Consistent 10-year revenue CAGR of 12.3% reflects durable business model.,85,0.0,auto_generated
+MOTHERSON,pro,PRO-04,Positive free cash flow of ₹925 Cr signals strong cash generation.,85,0.881,auto_generated
+MOTHERSON,pro,PRO-09,CFO/PAT ratio of 2.51× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+MOTHERSON,pro,PRO-12,Consistent 10-year revenue CAGR of 12.5% reflects durable business model.,85,0.0,auto_generated
+MOTHERSON,con,CON-03,Thin net profit margin of 3.1% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+NAUKRI,pro,PRO-03,"Revenue has compounded at 17.1% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+NAUKRI,pro,PRO-05,Low debt-to-equity of 0.01× reflects conservative financial management.,80,-0.273,auto_generated
+NAUKRI,pro,PRO-06,Operating margin of 28.0% indicates strong operational efficiency.,80,0.7,auto_generated
+NAUKRI,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+NAUKRI,pro,PRO-09,CFO/PAT ratio of 1.18× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+NAUKRI,pro,PRO-12,Consistent 10-year revenue CAGR of 16.2% reflects durable business model.,85,0.0,auto_generated
+NAUKRI,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+NAUKRI,con,CON-04,"ROE of 2.0% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+NAUKRI,con,CON-07,High CapEx intensity of 33.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+NESTLEIND,pro,PRO-01,Strong ROE of 117.8% indicates excellent shareholder value creation.,90,0.888,auto_generated
+NESTLEIND,pro,PRO-04,Positive free cash flow of ₹2938 Cr signals strong cash generation.,85,0.881,auto_generated
+NESTLEIND,pro,PRO-05,Low debt-to-equity of 0.10× reflects conservative financial management.,80,-0.273,auto_generated
+NESTLEIND,pro,PRO-06,Operating margin of 23.8% indicates strong operational efficiency.,80,0.7,auto_generated
+NESTLEIND,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+NESTLEIND,pro,PRO-09,CFO/PAT ratio of 1.06× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+NESTLEIND,pro,PRO-10,Composite Financial Health Score of 78/100 — rated Excellent.,90,0.572,auto_generated
+NESTLEIND,pro,PRO-11,ROCE of 143.1% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+NHPC,pro,PRO-04,Positive free cash flow of ₹970 Cr signals strong cash generation.,85,0.881,auto_generated
+NHPC,pro,PRO-06,Operating margin of 49.9% indicates strong operational efficiency.,80,0.7,auto_generated
+NHPC,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+NHPC,pro,PRO-09,CFO/PAT ratio of 1.72× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+NHPC,con,CON-06,Sluggish 5-year revenue CAGR of 1.4% indicates slow growth.,70,-0.026,auto_generated
+NHPC,con,CON-07,High CapEx intensity of 62.0% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+NHPC,con,CON-11,Working capital cycle of 359 days suggests slow collections or high inventory.,70,0.0,auto_generated
+NTPC,pro,PRO-04,Positive free cash flow of ₹8644 Cr signals strong cash generation.,85,0.881,auto_generated
+NTPC,pro,PRO-06,Operating margin of 28.8% indicates strong operational efficiency.,80,0.7,auto_generated
+NTPC,pro,PRO-09,CFO/PAT ratio of 1.91× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+NTPC,con,CON-07,High CapEx intensity of 18.0% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+ONGC,pro,PRO-04,Positive free cash flow of ₹42060 Cr signals strong cash generation.,85,0.881,auto_generated
+ONGC,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+ONGC,pro,PRO-09,CFO/PAT ratio of 1.74× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+ONGC,pro,PRO-12,Consistent 10-year revenue CAGR of 13.0% reflects durable business model.,85,0.0,auto_generated
+PFC,pro,PRO-01,Strong ROE of 26.2% indicates excellent shareholder value creation.,90,0.888,auto_generated
+PFC,pro,PRO-06,Operating margin of 36.7% indicates strong operational efficiency.,80,0.7,auto_generated
+PFC,pro,PRO-12,Consistent 10-year revenue CAGR of 15.6% reflects durable business model.,85,0.0,auto_generated
+PFC,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+PFC,con,CON-05,Interest coverage of 0.6× is below the 2× safety threshold.,85,0.7,auto_generated
+PFC,con,CON-08,Low CFO/PAT ratio of -3.70× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+PFC,con,CON-11,Working capital cycle of 3795 days suggests slow collections or high inventory.,70,0.0,auto_generated
+PIDILITIND,pro,PRO-01,Strong ROE of 20.8% indicates excellent shareholder value creation.,90,0.888,auto_generated
+PIDILITIND,pro,PRO-04,Positive free cash flow of ₹955 Cr signals strong cash generation.,85,0.881,auto_generated
+PIDILITIND,pro,PRO-05,Low debt-to-equity of 0.05× reflects conservative financial management.,80,-0.273,auto_generated
+PIDILITIND,pro,PRO-06,Operating margin of 21.9% indicates strong operational efficiency.,80,0.7,auto_generated
+PIDILITIND,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+PIDILITIND,pro,PRO-09,CFO/PAT ratio of 1.56× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+PIDILITIND,pro,PRO-11,ROCE of 26.9% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+PIDILITIND,con,CON-07,High CapEx intensity of 14.3% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+PNB,pro,PRO-01,Strong ROE of 61.3% indicates excellent shareholder value creation.,90,0.888,auto_generated
+PNB,pro,PRO-03,"Revenue has compounded at 15.9% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+PNB,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+PNB,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+PNB,con,CON-08,Low CFO/PAT ratio of -3.05× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+PNB,con,CON-09,Composite Health Score of 34/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+PNB,con,CON-11,Working capital cycle of 219 days suggests slow collections or high inventory.,70,0.0,auto_generated
+POWERGRID,pro,PRO-04,Positive free cash flow of ₹24176 Cr signals strong cash generation.,85,0.881,auto_generated
+POWERGRID,pro,PRO-06,Operating margin of 86.9% indicates strong operational efficiency.,80,0.7,auto_generated
+POWERGRID,pro,PRO-09,CFO/PAT ratio of 2.39× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+POWERGRID,con,CON-07,High CapEx intensity of 28.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+RECLTD,pro,PRO-01,Strong ROE of 20.4% indicates excellent shareholder value creation.,90,0.888,auto_generated
+RECLTD,pro,PRO-06,Operating margin of 100.8% indicates strong operational efficiency.,80,0.7,auto_generated
+RECLTD,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+RECLTD,con,CON-05,Interest coverage of 1.6× is below the 2× safety threshold.,85,0.7,auto_generated
+RECLTD,con,CON-08,Low CFO/PAT ratio of -4.08× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+RECLTD,con,CON-11,Working capital cycle of 3909 days suggests slow collections or high inventory.,70,0.0,auto_generated
+RELIANCE,pro,PRO-04,Positive free cash flow of ₹45207 Cr signals strong cash generation.,85,0.881,auto_generated
+RELIANCE,pro,PRO-09,CFO/PAT ratio of 2.01× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+RELIANCE,con,CON-04,"ROE of 10.0% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+RELIANCE,con,CON-07,High CapEx intensity of 12.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+SBILIFE,pro,PRO-02,"Company is debt-free with zero borrowings, providing strong balance sheet resilience.",95,0.511,auto_generated
+SBILIFE,pro,PRO-03,"Revenue has compounded at 24.2% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+SBILIFE,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+SBILIFE,pro,PRO-09,CFO/PAT ratio of 15.38× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+SBILIFE,pro,PRO-12,Consistent 10-year revenue CAGR of 22.6% reflects durable business model.,85,0.0,auto_generated
+SBILIFE,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+SBILIFE,con,CON-03,Thin net profit margin of 1.4% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+SBILIFE,con,CON-07,High CapEx intensity of 23.7% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+SHREECEM,pro,PRO-04,Positive free cash flow of ₹1929 Cr signals strong cash generation.,85,0.881,auto_generated
+SHREECEM,pro,PRO-05,Low debt-to-equity of 0.08× reflects conservative financial management.,80,-0.273,auto_generated
+SHREECEM,pro,PRO-06,Operating margin of 22.0% indicates strong operational efficiency.,80,0.7,auto_generated
+SHREECEM,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+SHREECEM,pro,PRO-09,CFO/PAT ratio of 1.93× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+SHREECEM,pro,PRO-12,Consistent 10-year revenue CAGR of 13.6% reflects durable business model.,85,0.0,auto_generated
+SHREECEM,con,CON-04,"ROE of 8.4% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+SHRIRAMFIN,pro,PRO-03,"Revenue has compounded at 18.6% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+SHRIRAMFIN,pro,PRO-06,Operating margin of 28.9% indicates strong operational efficiency.,80,0.7,auto_generated
+SHRIRAMFIN,pro,PRO-07,"Net profit has grown at 23.5% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+SHRIRAMFIN,pro,PRO-12,Consistent 10-year revenue CAGR of 15.7% reflects durable business model.,85,0.0,auto_generated
+SHRIRAMFIN,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+SHRIRAMFIN,con,CON-05,Interest coverage of 0.7× is below the 2× safety threshold.,85,0.7,auto_generated
+SHRIRAMFIN,con,CON-08,Low CFO/PAT ratio of -4.20× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+SHRIRAMFIN,con,CON-11,Working capital cycle of 2320 days suggests slow collections or high inventory.,70,0.0,auto_generated
+SIEMENS,pro,PRO-04,Positive free cash flow of ₹1168 Cr signals strong cash generation.,85,0.881,auto_generated
+SIEMENS,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+SIEMENS,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+SIEMENS,con,CON-11,Working capital cycle of 204 days suggests slow collections or high inventory.,70,0.0,auto_generated
+SUNPHARMA,pro,PRO-04,Positive free cash flow of ₹11372 Cr signals strong cash generation.,85,0.881,auto_generated
+SUNPHARMA,pro,PRO-05,Low debt-to-equity of 0.05× reflects conservative financial management.,80,-0.273,auto_generated
+SUNPHARMA,pro,PRO-06,Operating margin of 26.8% indicates strong operational efficiency.,80,0.7,auto_generated
+SUNPHARMA,pro,PRO-07,"Net profit has grown at 24.5% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+SUNPHARMA,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+SUNPHARMA,pro,PRO-09,CFO/PAT ratio of 1.26× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+TATACONSUM,pro,PRO-03,"Revenue has compounded at 16.0% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+TATACONSUM,pro,PRO-04,Positive free cash flow of ₹26 Cr signals strong cash generation.,85,0.881,auto_generated
+TATACONSUM,pro,PRO-05,Low debt-to-equity of 0.22× reflects conservative financial management.,80,-0.273,auto_generated
+TATACONSUM,pro,PRO-07,"Net profit has grown at 21.6% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+TATACONSUM,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+TATACONSUM,pro,PRO-09,CFO/PAT ratio of 1.59× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+TATACONSUM,con,CON-04,"ROE of 7.6% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+TATACONSUM,con,CON-07,High CapEx intensity of 12.6% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+TATAMOTORS,pro,PRO-01,Strong ROE of 37.5% indicates excellent shareholder value creation.,90,0.888,auto_generated
+TATAMOTORS,pro,PRO-04,Positive free cash flow of ₹45133 Cr signals strong cash generation.,85,0.881,auto_generated
+TATAMOTORS,pro,PRO-09,CFO/PAT ratio of 2.14× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+TATAPOWER,pro,PRO-03,"Revenue has compounded at 15.5% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+TATAPOWER,pro,PRO-04,Positive free cash flow of ₹3569 Cr signals strong cash generation.,85,0.881,auto_generated
+TATAPOWER,pro,PRO-09,CFO/PAT ratio of 2.94× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+TATAPOWER,con,CON-07,High CapEx intensity of 14.7% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+TATASTEEL,pro,PRO-04,Positive free cash flow of ₹6048 Cr signals strong cash generation.,85,0.881,auto_generated
+TATASTEEL,con,CON-08,Low CFO/PAT ratio of -4.13× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+TATASTEEL,con,CON-09,Composite Health Score of 19/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+TATASTEEL,con,CON-10,Negative net profit margin of -2.1% — company is loss-making.,90,-0.202,auto_generated
+TCS,pro,PRO-01,Strong ROE of 50.9% indicates excellent shareholder value creation.,90,0.888,auto_generated
+TCS,pro,PRO-04,Positive free cash flow of ₹50429 Cr signals strong cash generation.,85,0.881,auto_generated
+TCS,pro,PRO-05,Low debt-to-equity of 0.09× reflects conservative financial management.,80,-0.273,auto_generated
+TCS,pro,PRO-06,Operating margin of 26.7% indicates strong operational efficiency.,80,0.7,auto_generated
+TCS,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+TCS,pro,PRO-11,ROCE of 60.2% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+TECHM,pro,PRO-04,Positive free cash flow of ₹5058 Cr signals strong cash generation.,85,0.881,auto_generated
+TECHM,pro,PRO-05,Low debt-to-equity of 0.10× reflects conservative financial management.,80,-0.273,auto_generated
+TECHM,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+TECHM,pro,PRO-09,CFO/PAT ratio of 2.66× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+TECHM,con,CON-03,Thin net profit margin of 4.6% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+TECHM,con,CON-04,"ROE of 9.0% is below the 10% threshold, indicating suboptimal capital returns.",75,0.0,auto_generated
+TECHM,con,CON-09,Composite Health Score of 35/100 indicates multiple financial weakness signals.,85,-0.421,auto_generated
+TECHM,con,CON-12,Dividend payout of 150% exceeds earnings — may not be sustainable.,75,0.0,auto_generated
+TITAN,pro,PRO-01,Strong ROE of 37.2% indicates excellent shareholder value creation.,90,0.888,auto_generated
+TITAN,pro,PRO-03,"Revenue has compounded at 20.9% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+TITAN,pro,PRO-04,Positive free cash flow of ₹1506 Cr signals strong cash generation.,85,0.881,auto_generated
+TITAN,pro,PRO-07,"Net profit has grown at 20.3% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+TITAN,pro,PRO-12,Consistent 10-year revenue CAGR of 16.7% reflects durable business model.,85,0.0,auto_generated
+TITAN,con,CON-08,Low CFO/PAT ratio of 0.48× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+TORNTPHARM,pro,PRO-01,Strong ROE of 24.2% indicates excellent shareholder value creation.,90,0.888,auto_generated
+TORNTPHARM,pro,PRO-04,Positive free cash flow of ₹3106 Cr signals strong cash generation.,85,0.881,auto_generated
+TORNTPHARM,pro,PRO-06,Operating margin of 31.4% indicates strong operational efficiency.,80,0.7,auto_generated
+TORNTPHARM,pro,PRO-07,"Net profit has grown at 30.6% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+TORNTPHARM,pro,PRO-09,CFO/PAT ratio of 1.97× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+TORNTPHARM,pro,PRO-11,ROCE of 23.5% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+TRENT,pro,PRO-01,Strong ROE of 36.3% indicates excellent shareholder value creation.,90,0.888,auto_generated
+TRENT,pro,PRO-03,"Revenue has compounded at 36.3% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+TRENT,pro,PRO-04,Positive free cash flow of ₹841 Cr signals strong cash generation.,85,0.881,auto_generated
+TRENT,pro,PRO-07,"Net profit has grown at 73.1% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+TRENT,pro,PRO-10,Composite Financial Health Score of 79/100 — rated Excellent.,90,0.572,auto_generated
+TRENT,pro,PRO-11,ROCE of 22.3% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+TRENT,pro,PRO-12,Consistent 10-year revenue CAGR of 18.2% reflects durable business model.,85,0.0,auto_generated
+TVSMOTOR,pro,PRO-01,Strong ROE of 26.2% indicates excellent shareholder value creation.,90,0.888,auto_generated
+TVSMOTOR,pro,PRO-12,Consistent 10-year revenue CAGR of 16.7% reflects durable business model.,85,0.0,auto_generated
+TVSMOTOR,con,CON-01,High debt-to-equity of 3.8× raises leverage concerns.,85,0.0,auto_generated
+TVSMOTOR,con,CON-02,Negative or deteriorating free cash flow over 3 consecutive years raises cash generation concerns.,85,-0.103,auto_generated
+TVSMOTOR,con,CON-03,Thin net profit margin of 4.5% leaves limited buffer against revenue shocks.,75,-0.153,auto_generated
+TVSMOTOR,con,CON-08,Low CFO/PAT ratio of -0.70× suggests accrual-based earnings rather than cash earnings.,80,-0.273,auto_generated
+TVSMOTOR,con,CON-11,Working capital cycle of 231 days suggests slow collections or high inventory.,70,0.0,auto_generated
+INDIGO,pro,PRO-01,Strong ROE of 892.6% indicates excellent shareholder value creation.,90,0.888,auto_generated
+INDIGO,pro,PRO-03,"Revenue has compounded at 19.3% over 5 years, demonstrating strong growth.",85,0.71,auto_generated
+INDIGO,pro,PRO-04,Positive free cash flow of ₹9424 Cr signals strong cash generation.,85,0.881,auto_generated
+INDIGO,pro,PRO-05,Low debt-to-equity of 0.02× reflects conservative financial management.,80,-0.273,auto_generated
+INDIGO,pro,PRO-06,Operating margin of 76.3% indicates strong operational efficiency.,80,0.7,auto_generated
+INDIGO,pro,PRO-07,"Net profit has grown at 120.7% CAGR over 5 years, reflecting strong earnings momentum.",85,0.735,auto_generated
+INDIGO,pro,PRO-08,Exceptional interest coverage ratio indicates comfortable debt servicing ability.,75,0.727,auto_generated
+INDIGO,pro,PRO-09,CFO/PAT ratio of 2.59× indicates high earnings quality with strong cash conversion.,80,0.511,auto_generated
+INDIGO,pro,PRO-10,Composite Financial Health Score of 90/100 — rated Excellent.,90,0.572,auto_generated
+INDIGO,pro,PRO-11,ROCE of 4953.5% demonstrates efficient use of capital employed.,80,0.421,auto_generated
+INDIGO,pro,PRO-12,Consistent 10-year revenue CAGR of 20.0% reflects durable business model.,85,0.0,auto_generated
+INDIGO,con,CON-07,High CapEx intensity of 17.1% of revenue constrains free cash flow generation.,70,0.511,auto_generated
+HDFCBANK,pro,MANUAL,Company is expected to give good quarter,100,0.44,manual
+HDFCBANK,con,MANUAL,Stock is trading at 2.76 times its book value,100,0.34,manual
+HDFCBANK,pro,MANUAL,Company has delivered good profit growth of 23.4% CAGR over last 5 years,100,0.813,manual
+HDFCBANK,con,MANUAL,Company has low interest coverage ratio.,100,0.226,manual
+HDFCBANK,pro,MANUAL,Company has been maintaining a healthy dividend payout of 22.9%,100,0.402,manual
+HDFCBANK,con,MANUAL,"Contingent liabilities of Rs.24,09,821 Cr.",100,-0.202,manual
+HDFCBANK,pro,MANUAL,Company's median sales growth is 16.4% of last 10 years,100,0.382,manual
+HDFCBANK,con,MANUAL,"Earnings include an other income of Rs.1,55,870 Cr.",100,0.0,manual
+SBILIFE,pro,MANUAL,Company is almost debt free.,100,0.206,manual
+SBILIFE,con,MANUAL,Stock is trading at 9.11 times its book value,100,0.34,manual
+SBILIFE,pro,MANUAL,Company is expected to give good quarter,100,0.44,manual
+SBILIFE,con,MANUAL,Tax rate seems low,100,-0.273,manual
+SBILIFE,con,MANUAL,Company has a low return on equity of 12.9% over last 3 years.,100,-0.273,manual
+SBILIFE,con,MANUAL,"Earnings include an other income of Rs.1,657 Cr.",100,0.0,manual
+SBILIFE,con,MANUAL,Dividend payout has been low at 14.0% of profits over last 3 years,100,0.202,manual
+INFY,pro,MANUAL,Company has a good return on equity (ROE) track record: 3 Years ROE 30.9%,100,0.44,manual
+INFY,con,MANUAL,Stock is trading at 9.03 times its book value,100,0.34,manual
+INFY,pro,MANUAL,Company has been maintaining a healthy dividend payout of 63.3%,100,0.402,manual
+INFY,con,MANUAL,Promoter holding is low: 14.4%,100,-0.273,manual
+TCS,pro,MANUAL,Company is almost debt free.,100,0.206,manual
+TCS,con,MANUAL,Stock is trading at 15.2 times its book value,100,0.34,manual
+TCS,pro,MANUAL,Company has a good return on equity (ROE) track record: 3 Years ROE 47.4%,100,0.44,manual
+TCS,con,MANUAL,The company has delivered a poor sales growth of 10.5% over past five years.,100,-0.128,manual
+TCS,pro,MANUAL,Company has been maintaining a healthy dividend payout of 66.2%,100,0.402,manual

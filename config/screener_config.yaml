@@ -1,0 +1,131 @@
+# ============================================================================
+# screener_config.yaml — Nifty 100 Financial Intelligence Platform
+# Sprint 3: Investment Screener — all threshold definitions
+# Edit this file to create custom screens; no code changes needed.
+# ============================================================================
+
+# ---------------------------------------------------------------------------
+# ROE winsorisation cap — extreme values (BEL, HAL, INDIGO near-zero equity)
+# are capped at this value before screener ROE comparisons
+# ---------------------------------------------------------------------------
+roe_winsorise_cap: 200.0
+
+# ---------------------------------------------------------------------------
+# 6 Pre-built Screener Presets
+# ---------------------------------------------------------------------------
+presets:
+
+  quality_compounder:
+    label: "Quality Compounder"
+    description: >
+      High-ROE, low-debt, FCF-positive companies with sustained revenue growth.
+      Ideal for long-term compounding.
+    filters:
+      min_roe:            15.0
+      max_de:              1.0
+      min_fcf:             0.0
+      min_revenue_cagr_5yr: 10.0
+    ranking_metric: composite_score
+    ranking_order: desc
+    expected_count: "15–35"
+
+  value_pick:
+    label: "Value Pick"
+    description: >
+      Low P/E, low P/B companies with manageable debt and a dividend yield.
+      Classic Graham-style value screen.
+    filters:
+      max_pe:              20.0
+      max_pb:               3.0
+      max_de:               2.0
+      min_dividend_yield:   1.0
+    ranking_metric: fcf_yield
+    ranking_order: desc
+    expected_count: "10–25"
+
+  growth_accelerator:
+    label: "Growth Accelerator"
+    description: >
+      High PAT and revenue CAGR companies with manageable leverage.
+      Momentum + growth focus.
+    filters:
+      min_pat_cagr_5yr:    20.0
+      min_revenue_cagr_5yr: 15.0
+      max_de:               2.0
+    ranking_metric: pat_cagr_5yr
+    ranking_order: desc
+    expected_count: "8–20"
+
+  dividend_champion:
+    label: "Dividend Champion"
+    description: >
+      High-yield, sustainable dividend payers with positive FCF.
+      Income investor focus.
+    filters:
+      min_dividend_yield:   2.0
+      max_dividend_payout: 80.0
+      min_fcf:              0.0
+    ranking_metric: dividend_yield_pct
+    ranking_order: desc
+    expected_count: "10–20"
+
+  debt_free_blue_chip:
+    label: "Debt-Free Blue Chip"
+    description: >
+      Zero-debt companies with strong ROE and meaningful scale.
+      Capital-light, balance-sheet fortress.
+    filters:
+      max_de:               0.0
+      min_roe:             12.0
+    ranking_metric: return_on_equity_pct
+    ranking_order: desc
+    expected_count: "15–30"
+
+  turnaround_watch:
+    label: "Turnaround Watch"
+    description: >
+      Companies showing revenue recovery (3yr CAGR > 10%), positive FCF
+      in latest year, and declining debt. Recovery play.
+    filters:
+      min_revenue_cagr_3yr: 10.0
+      min_fcf:               0.0
+    ranking_metric: revenue_cagr_3yr
+    ranking_order: desc
+    expected_count: "5–15"
+
+# ---------------------------------------------------------------------------
+# Composite Score Weights  (must sum to 1.0)
+# ---------------------------------------------------------------------------
+composite_score_weights:
+  profitability: 0.35     # ROE 15%, ROCE 10%, NPM 10%
+  cash_quality:  0.30     # FCF CAGR 5yr 15%, CFO/PAT 10%, FCF>0 flag 5%
+  growth:        0.20     # Rev CAGR 5yr 10%, PAT CAGR 5yr 10%
+  leverage:      0.15     # D/E 10%, ICR 5%
+
+# ---------------------------------------------------------------------------
+# Sector-relative outlier detection thresholds
+# ---------------------------------------------------------------------------
+sector_relative:
+  zscore_outlier_threshold: 2.0     # |Z| > 2 = sector outlier (flag)
+  bottom_decile_flag: true          # flag companies in bottom 10% of sector
+
+# ---------------------------------------------------------------------------
+# Filter column mapping  (API param name -> computed_ratios column)
+# ---------------------------------------------------------------------------
+filter_map:
+  min_roe:               return_on_equity_pct
+  max_de:                debt_to_equity
+  min_fcf:               free_cash_flow_cr
+  min_revenue_cagr_5yr:  revenue_cagr_5yr
+  min_revenue_cagr_3yr:  revenue_cagr_3yr
+  min_pat_cagr_5yr:      pat_cagr_5yr
+  max_pe:                pe_ratio
+  max_pb:                pb_ratio
+  min_dividend_yield:    dividend_yield_pct
+  max_dividend_payout:   dividend_payout_ratio_pct
+  min_health_score:      health_score
+  sector:                broad_sector
+  market_cap_category:   market_cap_category
+  min_npm:               net_profit_margin_pct
+  min_roce:              return_on_capital_pct
+  min_icr:               interest_coverage

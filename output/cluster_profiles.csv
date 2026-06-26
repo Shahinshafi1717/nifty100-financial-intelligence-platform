@@ -1,0 +1,6 @@
+cluster_id,cluster_name,return_on_equity_pct_mean,return_on_equity_pct_median,debt_to_equity_mean,debt_to_equity_median,revenue_cagr_5yr_mean,revenue_cagr_5yr_median,pat_cagr_5yr_mean,pat_cagr_5yr_median,operating_profit_margin_pct_mean,operating_profit_margin_pct_median,health_score_mean,health_score_median,free_cash_flow_cr_mean,free_cash_flow_cr_median
+0,Turnaround / Weak,15.97,15.35,0.56,0.06,13.36,11.75,11.68,12.95,83.61,86.15,55.08,55.79,5916.92,3095.0
+1,High-Quality Growth,179.44,200.0,0.31,0.31,13.33,12.65,44.54,21.31,39.28,28.51,81.78,82.4,3227.75,2376.0
+2,Leveraged Value,17.55,16.27,8.08,6.87,18.87,17.83,36.72,23.75,54.82,40.15,50.93,52.06,-21872.25,-13951.5
+3,Defensive Dividend,24.69,18.75,1.5,0.79,19.4,18.26,31.6,24.33,20.58,15.93,61.03,60.35,-5922.47,383.0
+4,Cyclical / Capital Intensive,19.11,16.35,0.44,0.14,8.6,9.41,11.51,10.7,20.84,19.9,50.95,50.24,7662.98,1732.5

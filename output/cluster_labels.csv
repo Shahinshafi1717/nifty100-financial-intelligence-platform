@@ -1,0 +1,92 @@
+company_id,cluster_id,cluster_name,distance_from_centroid,broad_sector
+ABB,4,Cyclical / Capital Intensive,0.6766,Industrials
+ADANIENSOL,3,Defensive Dividend,1.1234,Energy
+ADANIENT,3,Defensive Dividend,0.9923,Industrials
+ADANIGREEN,2,Leveraged Value,2.595,Energy
+ADANIPORTS,0,Turnaround / Weak,1.292,Industrials
+ADANIPOWER,3,Defensive Dividend,1.2341,Energy
+AMBUJACEM,4,Cyclical / Capital Intensive,0.5794,Materials
+APOLLOHOSP,3,Defensive Dividend,0.8912,Healthcare
+ASIANPAINT,4,Cyclical / Capital Intensive,0.8048,Materials
+ATGL,3,Defensive Dividend,0.6078,Energy
+BAJAJ-AUTO,4,Cyclical / Capital Intensive,0.2972,Consumer Discretionary
+AXISBANK,2,Leveraged Value,1.0116,Financials
+BAJAJFINSV,2,Leveraged Value,1.4246,Financials
+BAJAJHLDNG,0,Turnaround / Weak,2.5598,Financials
+BAJFINANCE,3,Defensive Dividend,1.188,Financials
+BANKBARODA,2,Leveraged Value,2.3454,Financials
+BHARTIARTL,3,Defensive Dividend,1.6159,Communication Services
+BEL,1,High-Quality Growth,1.6883,Industrials
+BHEL,4,Cyclical / Capital Intensive,2.6605,Industrials
+BOSCHLTD,4,Cyclical / Capital Intensive,0.4595,Consumer Discretionary
+BPCL,4,Cyclical / Capital Intensive,0.9421,Energy
+BRITANNIA,4,Cyclical / Capital Intensive,0.9727,Consumer Staples
+CANBK,2,Leveraged Value,2.8206,Financials
+CHOLAFIN,2,Leveraged Value,1.256,Financials
+CIPLA,0,Turnaround / Weak,0.833,Healthcare
+COALINDIA,0,Turnaround / Weak,1.3373,Materials
+DABUR,4,Cyclical / Capital Intensive,0.4117,Consumer Staples
+DIVISLAB,4,Cyclical / Capital Intensive,0.5968,Healthcare
+DLF,4,Cyclical / Capital Intensive,1.9707,Real Estate
+DMART,3,Defensive Dividend,0.8939,Consumer Discretionary
+DRREDDY,4,Cyclical / Capital Intensive,0.8639,Healthcare
+EICHERMOT,4,Cyclical / Capital Intensive,0.4306,Consumer Discretionary
+GAIL,4,Cyclical / Capital Intensive,0.6301,Energy
+GODREJCP,4,Cyclical / Capital Intensive,0.7492,Consumer Staples
+GRASIM,4,Cyclical / Capital Intensive,1.0715,Industrials
+HAL,1,High-Quality Growth,1.2878,Industrials
+HAVELLS,4,Cyclical / Capital Intensive,0.7501,Industrials
+HCLTECH,4,Cyclical / Capital Intensive,0.6059,Information Technology
+HDFCBANK,2,Leveraged Value,0.8011,Financials
+HDFCLIFE,0,Turnaround / Weak,1.3147,Financials
+HEROMOTOCO,0,Turnaround / Weak,1.6288,Consumer Discretionary
+HINDALCO,0,Turnaround / Weak,0.4536,Materials
+HINDUNILVR,0,Turnaround / Weak,0.627,Consumer Staples
+ICICIBANK,2,Leveraged Value,1.0249,Financials
+ICICIGI,0,Turnaround / Weak,0.2667,Financials
+ICICIPRULI,0,Turnaround / Weak,1.2686,Financials
+INDUSINDBK,2,Leveraged Value,1.0395,Financials
+INFY,4,Cyclical / Capital Intensive,0.7153,Information Technology
+IOC,4,Cyclical / Capital Intensive,0.6151,Energy
+IRCTC,3,Defensive Dividend,0.8365,Consumer Discretionary
+IRFC,2,Leveraged Value,1.8049,Financials
+ITC,4,Cyclical / Capital Intensive,0.6827,Consumer Staples
+JINDALSTEL,4,Cyclical / Capital Intensive,1.0178,Materials
+JIOFIN,0,Turnaround / Weak,0.5362,Financials
+JSWENERGY,4,Cyclical / Capital Intensive,1.2934,Energy
+JSWSTEEL,4,Cyclical / Capital Intensive,1.1153,Materials
+KOTAKBANK,0,Turnaround / Weak,1.4192,Financials
+LICI,3,Defensive Dividend,2.9105,Financials
+LODHA,4,Cyclical / Capital Intensive,1.7292,Real Estate
+LT,4,Cyclical / Capital Intensive,1.67,Industrials
+LTIM,3,Defensive Dividend,1.6139,Information Technology
+M&M,4,Cyclical / Capital Intensive,0.6368,Consumer Discretionary
+MARUTI,4,Cyclical / Capital Intensive,0.4341,Consumer Discretionary
+MOTHERSON,4,Cyclical / Capital Intensive,0.544,Consumer Discretionary
+NAUKRI,4,Cyclical / Capital Intensive,1.4285,Communication Services
+NESTLEIND,1,High-Quality Growth,2.3608,Consumer Staples
+NHPC,4,Cyclical / Capital Intensive,1.5068,Energy
+NTPC,4,Cyclical / Capital Intensive,0.7415,Energy
+ONGC,4,Cyclical / Capital Intensive,0.2646,Energy
+PFC,2,Leveraged Value,1.6596,Financials
+PIDILITIND,4,Cyclical / Capital Intensive,0.4785,Materials
+PNB,3,Defensive Dividend,1.586,Financials
+POWERGRID,0,Turnaround / Weak,1.1266,Energy
+RECLTD,2,Leveraged Value,2.0687,Financials
+RELIANCE,4,Cyclical / Capital Intensive,0.3407,Energy
+SBILIFE,3,Defensive Dividend,1.6755,Financials
+SHREECEM,4,Cyclical / Capital Intensive,0.408,Materials
+SHRIRAMFIN,3,Defensive Dividend,1.1111,Financials
+SIEMENS,4,Cyclical / Capital Intensive,0.6196,Industrials
+SUNPHARMA,4,Cyclical / Capital Intensive,0.7681,Healthcare
+TATACONSUM,3,Defensive Dividend,0.9612,Consumer Staples
+TATAMOTORS,4,Cyclical / Capital Intensive,0.7025,Consumer Discretionary
+TATAPOWER,4,Cyclical / Capital Intensive,1.0795,Energy
+TATASTEEL,4,Cyclical / Capital Intensive,0.8517,Materials
+TCS,4,Cyclical / Capital Intensive,0.9731,Information Technology
+TECHM,4,Cyclical / Capital Intensive,1.2948,Information Technology
+TITAN,3,Defensive Dividend,0.7479,Consumer Discretionary
+TORNTPHARM,4,Cyclical / Capital Intensive,1.0676,Healthcare
+TRENT,3,Defensive Dividend,3.2442,Consumer Discretionary
+TVSMOTOR,3,Defensive Dividend,1.2963,Consumer Discretionary
+INDIGO,1,High-Quality Growth,4.2513,Consumer Discretionary

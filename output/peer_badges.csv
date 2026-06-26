@@ -1,0 +1,57 @@
+peer_group_name,company_id,top_quartile_count,bottom_quartile_count,badge
+Automobiles,BAJAJ-AUTO,6,1,Best in Class
+Automobiles,EICHERMOT,5,0,Standard
+Automobiles,HEROMOTOCO,2,2,Standard
+Automobiles,M&M,0,7,Watch List
+Automobiles,MARUTI,2,2,Standard
+Automobiles,TATAMOTORS,3,3,Standard
+Automobiles,TVSMOTOR,2,5,Watch List
+Consumer Finance,BAJFINANCE,8,1,Best in Class
+Consumer Finance,CHOLAFIN,0,4,Watch List
+Consumer Finance,SHRIRAMFIN,1,4,Watch List
+FMCG,BRITANNIA,2,3,Standard
+FMCG,DABUR,0,3,Standard
+FMCG,GODREJCP,1,8,Watch List
+FMCG,HINDUNILVR,6,0,Best in Class
+FMCG,ITC,5,1,Standard
+FMCG,NESTLEIND,4,0,Standard
+FMCG,TATACONSUM,2,5,Watch List
+IT Services,HCLTECH,1,1,Standard
+IT Services,INFY,8,0,Best in Class
+IT Services,LTIM,3,7,Watch List
+IT Services,TCS,8,2,Best in Class
+IT Services,TECHM,0,10,Watch List
+Life Insurance,HDFCLIFE,0,1,Standard
+Life Insurance,ICICIPRULI,1,6,Watch List
+Life Insurance,LICI,7,1,Best in Class
+Life Insurance,SBILIFE,2,1,Standard
+Oil & Gas,BPCL,4,4,Watch List
+Oil & Gas,GAIL,3,5,Watch List
+Oil & Gas,IOC,4,5,Watch List
+Oil & Gas,ONGC,5,2,Standard
+Oil & Gas,RELIANCE,4,4,Watch List
+Pharmaceuticals,CIPLA,4,4,Watch List
+Pharmaceuticals,DIVISLAB,3,6,Watch List
+Pharmaceuticals,DRREDDY,4,2,Standard
+Pharmaceuticals,SUNPHARMA,4,3,Standard
+Pharmaceuticals,TORNTPHARM,5,5,Watch List
+Power & Utilities,ADANIGREEN,3,4,Watch List
+Power & Utilities,ADANIPOWER,9,0,Best in Class
+Power & Utilities,JSWENERGY,0,5,Watch List
+Power & Utilities,NHPC,3,4,Watch List
+Power & Utilities,NTPC,0,4,Watch List
+Power & Utilities,POWERGRID,5,0,Standard
+Power & Utilities,TATAPOWER,0,3,Standard
+Private Banks,AXISBANK,3,6,Watch List
+Private Banks,HDFCBANK,3,0,Standard
+Private Banks,ICICIBANK,8,1,Best in Class
+Private Banks,INDUSINDBK,1,7,Watch List
+Private Banks,KOTAKBANK,3,4,Watch List
+Public Sector Banks,BANKBARODA,0,3,Standard
+Public Sector Banks,CANBK,0,2,Standard
+Public Sector Banks,PNB,3,4,Watch List
+Public Sector Banks,SBIN,9,0,Best in Class
+Steel,HINDALCO,5,0,Standard
+Steel,JINDALSTEL,4,1,Standard
+Steel,JSWSTEEL,1,3,Standard
+Steel,TATASTEEL,1,6,Watch List

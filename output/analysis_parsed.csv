@@ -1,0 +1,52 @@
+company_id,metric_type,period_years,value_pct,raw_text
+HDFCBANK,revenue_cagr,10,21.0,10 Years: 21%
+HDFCBANK,pat_cagr,10,22.0,10 Years: 22%
+HDFCBANK,stock_price_cagr,10,15.0,10 Years:     15%
+HDFCBANK,roe_period,10,17.0,10 Years:     17%
+HDFCBANK,revenue_cagr,5,22.0,5 Years:       22%
+HDFCBANK,pat_cagr,5,23.0,5 Years:           23%
+HDFCBANK,stock_price_cagr,5,8.0,      5 Years:       8%
+HDFCBANK,roe_period,5,17.0,5 Years:       17%
+HDFCBANK,revenue_cagr,3,30.0,3 Years:       30%
+HDFCBANK,pat_cagr,3,26.0,3 Years:           26%
+HDFCBANK,stock_price_cagr,3,8.0,      3 Years:       8%
+HDFCBANK,roe_period,3,17.0,3 Years:       17%
+HDFCBANK,stock_price_cagr,1,13.0,      1 Year:        13%
+INFY,revenue_cagr,10,12.0,10 Years:     12%
+INFY,pat_cagr,10,9.0,10 Years:         9%
+INFY,stock_price_cagr,10,15.0,     10 Years:     15%
+INFY,roe_period,10,27.0,10 Years:      27%
+INFY,revenue_cagr,5,13.0,5 Years:       13%
+INFY,pat_cagr,5,11.0,5 Years:           11%
+INFY,stock_price_cagr,5,22.0,       5 Years:     22%
+INFY,roe_period,5,29.0,5 Years:        29%
+INFY,revenue_cagr,3,5.0,3 Years:       5%
+INFY,pat_cagr,3,10.0,3 Years:           10%
+INFY,stock_price_cagr,3,4.0,       3 Years:     4%
+INFY,roe_period,3,31.0,3 Years:        31%
+INFY,stock_price_cagr,1,27.0,       1 Year:       27%
+SBILIFE,revenue_cagr,10,23.0,10 Years:     23%
+SBILIFE,pat_cagr,10,9.0,10 Years:          9%
+SBILIFE,stock_price_cagr,10,9.0,    10 Years:      9%
+SBILIFE,roe_period,10,16.0,10 Years:      16%
+SBILIFE,revenue_cagr,5,24.0,5 Years:       24%
+SBILIFE,pat_cagr,5,6.0,5 Years:            6%
+SBILIFE,stock_price_cagr,5,8.0,     5 Years:       8%
+SBILIFE,roe_period,5,14.0,5 Years          14%
+SBILIFE,revenue_cagr,3,17.0,3 Years:       17%
+SBILIFE,pat_cagr,3,9.0,3 Years:            9%
+SBILIFE,stock_price_cagr,3,7.0,     3 Years:       7%
+SBILIFE,roe_period,3,13.0,3 Years:         13%
+TCS,revenue_cagr,10,11.0,10 Years:     11%             
+TCS,pat_cagr,10,9.0,10 Years:          9%
+TCS,stock_price_cagr,10,14.0,    10 Years:      14%
+TCS,roe_period,10,40.0,10 Years:       40%
+TCS,revenue_cagr,5,10.0,5 Years:       10%             
+TCS,pat_cagr,5,8.0,5 Years:            8%
+TCS,stock_price_cagr,5,16.0,      5 Years:      16%
+TCS,roe_period,5,44.0,5 Years:          44%
+TCS,revenue_cagr,3,14.0,3 Years:       14%             
+TCS,pat_cagr,3,12.0,3 Years:            12%
+TCS,stock_price_cagr,3,8.0,      3 Years:      8%
+TCS,roe_period,3,47.0,3 Years:          47%
+TCS,stock_price_cagr,1,16.0,      1 Year:       16%
